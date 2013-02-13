@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{DEE9529A-4A83-4ACC-89BF-1F36FF953AF5}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="390">
+<block blockType="Text" pageElemId="{DEE9529A-4A83-4ACC-89BF-1F36FF953AF5}" l="755" t="246" r="1173" b="921"><region><rect l="755" t="246" r="1173" b="921"/></region>
+<text id="{DEE9529A-4A83-4ACC-89BF-1F36FF953AF5}">
+<par leftIndent="100" rightIndent="2700" lineSpacing="1034">
+<line baseline="310" l="776" t="266" r="1056" b="315"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="368" l="772" t="321" r="1080" b="372"><formatting lang="EnglishUnitedStates">EMEC 609.674</formatting></line></par>
+<par leftIndent="100" rightIndent="1700" lineSpacing="1514">
+<line baseline="438" l="763" t="406" r="1115" b="452"><formatting lang="EnglishUnitedStates">emi.E.Currant</formatting></line>
+<line baseline="518" l="765" t="455" r="1147" b="543"><formatting lang="EnglishUnitedStates">Nev/VI-24-60 §</formatting></line></par>
+<par align="Justified" leftIndent="2900">
+<line baseline="582" l="919" t="533" r="1139" b="583"><formatting lang="EnglishUnitedStates">:: i■■ .</formatting></line></par>
+<par leftIndent="800" startIndent="-600">
+<line baseline="627" l="767" t="594" r="990" b="639"><formatting lang="EnglishUnitedStates">G.I^tage</formatting></line></par>
+<par leftIndent="800" startIndent="-600">
+<line baseline="667" l="765" t="635" r="973" b="670"><formatting lang="EnglishUnitedStates">Collector</formatting></line></par>
+<par leftIndent="1900" rightIndent="1700" startIndent="-1800" lineSpacing="923">
+<line baseline="750" l="763" t="706" r="962" b="752"><formatting lang="EnglishUnitedStates">Cacerig</formatting></line>
+<line baseline="799" l="867" t="754" r="1031" b="799"><formatting lang="EnglishUnitedStates">&lt;-&lt; Uo</formatting></line></par>
+<par leftIndent="800" rightIndent="1700" startIndent="-600" lineSpacing="868">
+<line baseline="864" l="773" t="803" r="1088" b="868"><formatting lang="EnglishUnitedStates">tf* &apos; ftiofctl</formatting></line>
+<line baseline="913" l="803" t="875" r="1106" b="914"><formatting lang="EnglishUnitedStates">det R Boh at i</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="827" t="675" r="972" b="678"><region><rect l="827" t="675" r="972" b="678"/></region>
+<separator type="Black" thickness="3"><start x="827" y="676"/><end x="972" y="676"/>
+</separator>
+</block>
+<block blockType="Separator" l="801" t="674" r="924" b="680"><region><rect l="801" t="674" r="924" b="680"/></region>
+<separator type="Dotted" thickness="4"><start x="801" y="677"/><end x="924" y="677"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{928674F6-B946-4ABF-A474-D663A781201E}"/><elemId id="{BD026CE1-D46A-45CF-B396-E4A9E57B24BB}"/></stream><stream role="incut" beginPage="0"><elemId id="{26FCA7C2-6735-49A8-99BC-83E6E11DE520}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="410">
+<block blockType="Picture" pageElemId="{26FCA7C2-6735-49A8-99BC-83E6E11DE520}" l="6" t="0" r="788" b="640"><region><rect l="6" t="0" r="788" b="640"/></region>
+</block>
+<block blockType="Text" l="838" t="122" r="1380" b="702"><region><rect l="1034" t="122" r="1052" b="128"/><rect l="1034" t="128" r="1076" b="130"/><rect l="946" t="130" r="1218" b="134"/><rect l="946" t="134" r="1354" b="214"/><rect l="948" t="214" r="1354" b="220"/><rect l="838" t="220" r="1354" b="300"/><rect l="838" t="300" r="1368" b="360"/><rect l="838" t="360" r="1380" b="702"/></region>
+<text id="{928674F6-B946-4ABF-A474-D663A781201E}">
+<par leftIndent="500" rightIndent="1700" lineSpacing="983">
+<line baseline="299" l="874" t="263" r="1232" b="307"><formatting lang="EnglishUnitedStates">U.C. Berkeley *</formatting></line>
+<line baseline="353" l="876" t="319" r="1224" b="359"><formatting lang="EnglishUnitedStates">EMEC 609.580 i</formatting></line></par>
+<par leftIndent="500">
+<line baseline="443" l="864" t="371" r="1087" b="449"><formatting lang="EnglishUnitedStates">BacelmrL</formatting></line></par>
+</text>
+<text id="{FA49824A-2EA4-430A-B056-4E58FFC86536}">
+<par align="Justified" lineSpacing="685">
+<line baseline="515" l="850" t="476" r="1203" b="517"><formatting lang="EnglishUnitedStates">J. W. MacSwain</formatting></line>
+<line baseline="553" l="848" t="518" r="1059" b="558"><formatting lang="EnglishUnitedStates">Collector</formatting></line></par>
+</text>
+<text id="{E3940C6E-DC7C-49AD-B68D-CA5BD302AA61}">
+<par align="Justified" lineSpacing="702">
+<line baseline="613" l="847" t="573" r="1235" b="618"><formatting lang="EnglishUnitedStates">Santa Clara tiyri.</formatting></line></par>
+<par align="Justified" lineSpacing="702">
+<line baseline="652" l="847" t="617" r="1325" b="658"><formatting lang="EnglishUnitedStates">6 mi. W.Parrita.Chih</formatting></line>
+<line baseline="693" l="846" t="658" r="1189" b="694"><formatting lang="EnglishUnitedStates">HEX. VI1-6-54</formatting></line></par>
+</text>
+</block>
+<block blockType="Picture" pageElemId="{BD026CE1-D46A-45CF-B396-E4A9E57B24BB}" l="872" t="696" r="1324" b="852"><region><rect l="872" t="696" r="1324" b="852"/></region>
+</block>
+<block blockType="Separator" l="1008" t="706" r="1132" b="714"><region><rect l="1008" t="706" r="1132" b="714"/></region>
+<separator type="Black" thickness="3"><start x="1008" y="710"/><end x="1132" y="710"/>
+</separator>
+</block>
+<block blockType="Separator" l="252" t="0" r="260" b="190"><region><rect l="254" t="0" r="260" b="120"/><rect l="252" t="120" r="258" b="190"/></region>
+<separator type="Black" thickness="3"><start x="256" y="0"/><end x="256" y="190"/>
+</separator>
+</block>
+<block blockType="Separator" l="530" t="0" r="540" b="204"><region><rect l="532" t="0" r="540" b="122"/><rect l="530" t="122" r="536" b="204"/></region>
+<separator type="Black" thickness="3"><start x="535" y="0"/><end x="535" y="204"/>
+</separator>
+</block>
+<block blockType="Separator" l="672" t="0" r="680" b="124"><region><rect l="672" t="0" r="680" b="124"/></region>
+<separator type="Black" thickness="4"><start x="676" y="0"/><end x="676" y="124"/>
+</separator>
+</block>
+<block blockType="Separator" l="1068" t="52" r="1246" b="62"><region><rect l="1068" t="52" r="1246" b="62"/></region>
+<separator type="Dotted" thickness="2"><start x="1068" y="57"/><end x="1246" y="57"/>
+</separator>
+</block>
+<block blockType="Separator" l="1062" t="872" r="1468" b="890"><region><rect l="1062" t="872" r="1468" b="890"/></region>
+<separator type="Dotted" thickness="4"><start x="1062" y="881"/><end x="1468" y="881"/>
+</separator>
+</block>
+</page>
+</document>

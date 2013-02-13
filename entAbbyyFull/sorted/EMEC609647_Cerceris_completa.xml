@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{E6BB00A8-FC8C-48AA-B991-93628661DCA9}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="430">
+<block blockType="Text" pageElemId="{E6BB00A8-FC8C-48AA-B991-93628661DCA9}" l="1096" t="300" r="1550" b="1022"><region><rect l="1118" t="300" r="1388" b="302"/><rect l="1118" t="302" r="1550" b="456"/><rect l="1116" t="456" r="1550" b="458"/><rect l="1096" t="458" r="1550" b="1022"/></region>
+<text id="{E6BB00A8-FC8C-48AA-B991-93628661DCA9}">
+<par leftIndent="200" rightIndent="1800" lineSpacing="954">
+<line baseline="348" l="1122" t="310" r="1400" b="358"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="405" l="1122" t="367" r="1426" b="407"><formatting lang="EnglishUnitedStates">EMEC 609.647</formatting></line></par>
+<par align="Right" leftIndent="200" rightIndent="3100" lineSpacing="837">
+<line baseline="452" l="1217" t="413" r="1346" b="474"><formatting lang="EnglishUnitedStates">&apos; \</formatting></line>
+<line baseline="527" l="1109" t="458" r="1349" b="530"><formatting lang="EnglishUnitedStates">Asdeplas I</formatting></line></par>
+<par align="Justified" leftIndent="200">
+<line baseline="612" l="1120" t="575" r="1412" b="615"><formatting lang="EnglishUnitedStates">M.Wesbeuer</formatting></line></par>
+<par align="Justified" leftIndent="200">
+<line baseline="652" l="1118" t="617" r="1325" b="654"><formatting lang="EnglishUnitedStates">Collector</formatting></line></par>
+<par align="Justified" leftIndent="200" rightIndent="1100" lineSpacing="670">
+<line baseline="718" l="1110" t="680" r="1488" b="726"><formatting lang="EnglishUnitedStates">ArroyoMocho,20</formatting></line>
+<line baseline="759" l="1107" t="720" r="1469" b="759"><formatting lang="EnglishUnitedStates">mi. S. Livermore</formatting></line>
+<line baseline="799" l="1105" t="761" r="1452" b="799"><formatting lang="EnglishUnitedStates">Calif. VII-22-55</formatting></line></par>
+<par leftIndent="200" rightIndent="1100" lineSpacing="820">
+<line baseline="863" l="1124" t="831" r="1320" b="866"><formatting lang="EnglishUnitedStates">Cerceris</formatting></line>
+<line baseline="912" l="1151" t="880" r="1463" b="920"><formatting lang="EnglishUnitedStates">completa Bks.</formatting></line>
+<line baseline="964" l="1124" t="924" r="1468" b="979"><formatting lang="EnglishUnitedStates">Det. by &apos;£y</formatting></line>
+<line baseline="1009" l="1146" t="980" r="1468" b="1022"><formatting lang="EnglishUnitedStates">H.A.Scullen </formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="1104" t="818" r="1484" b="824"><region><rect l="1104" t="818" r="1484" b="824"/></region>
+<separator type="Black" thickness="3"><start x="1104" y="821"/><end x="1484" y="821"/>
+</separator>
+</block>
+<block blockType="Separator" l="1120" t="872" r="1324" b="880"><region><rect l="1120" t="872" r="1324" b="880"/></region>
+<separator type="Black" thickness="4"><start x="1120" y="876"/><end x="1324" y="876"/>
+</separator>
+</block>
+<block blockType="Separator" l="1144" t="920" r="1348" b="930"><region><rect l="1224" t="920" r="1348" b="922"/><rect l="1144" t="922" r="1348" b="928"/><rect l="1144" t="928" r="1224" b="930"/></region>
+<separator type="Black" thickness="4"><start x="1144" y="925"/><end x="1348" y="925"/>
+</separator>
+</block>
+<block blockType="Separator" l="1104" t="1018" r="1480" b="1026"><region><rect l="1104" t="1018" r="1480" b="1026"/></region>
+<separator type="Black" thickness="3"><start x="1104" y="1022"/><end x="1480" y="1022"/>
+</separator>
+</block>
+<block blockType="Separator" l="1108" t="812" r="1116" b="1032"><region><rect l="1108" t="812" r="1116" b="1032"/></region>
+<separator type="Black" thickness="4"><start x="1112" y="812"/><end x="1112" y="1032"/>
+</separator>
+</block>
+<block blockType="Separator" l="1470" t="810" r="1478" b="1028"><region><rect l="1470" t="810" r="1478" b="1028"/></region>
+<separator type="Black" thickness="4"><start x="1474" y="810"/><end x="1474" y="1028"/>
+</separator>
+</block>
+</page>
+</document>

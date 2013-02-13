@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{28EC7541-FD64-44CB-BFBA-E0A24B49A167}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="400">
+<block blockType="Text" pageElemId="{28EC7541-FD64-44CB-BFBA-E0A24B49A167}" l="1098" t="230" r="1522" b="740"><region><rect l="1098" t="230" r="1508" b="496"/><rect l="1142" t="496" r="1508" b="524"/><rect l="1144" t="524" r="1508" b="590"/><rect l="1168" t="590" r="1508" b="646"/><rect l="1142" t="646" r="1508" b="684"/><rect l="1142" t="684" r="1522" b="698"/><rect l="1164" t="698" r="1522" b="740"/></region>
+<text id="{28EC7541-FD64-44CB-BFBA-E0A24B49A167}">
+<par leftIndent="200" rightIndent="2200" lineSpacing="1008">
+<line baseline="274" l="1113" t="238" r="1391" b="283"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="330" l="1116" t="295" r="1419" b="332"><formatting lang="EnglishUnitedStates">EMEC 609.788</formatting></line></par>
+<par align="Right" leftIndent="200" rightIndent="3500" lineSpacing="918">
+<line baseline="419" l="1131" t="376" r="1354" b="419"><formatting lang="EnglishUnitedStates">flee p Creek</formatting></line>
+<line baseline="466" l="1130" t="427" r="1341" b="469"><formatting lang="EnglishUnitedStates">C=U #-/-&gt;£</formatting></line>
+<line baseline="520" l="1162" t="475" r="1351" b="520"><formatting lang="EnglishUnitedStates">fVT .</formatting></line></par>
+<par leftIndent="900" rightIndent="400" lineSpacing="864">
+<line baseline="585" l="1159" t="554" r="1423" b="600"><formatting lang="EnglishUnitedStates">Cerceris j</formatting></line>
+<line baseline="633" l="1183" t="611" r="1419" b="641"><formatting lang="EnglishUnitedStates">conver^ens</formatting></line>
+<line baseline="682" l="1158" t="642" r="1521" b="695"><formatting lang="EnglishUnitedStates">Det. by TT&amp; ,C. s</formatting></line>
+<line baseline="730" l="1180" t="700" r="1444" b="732"><formatting lang="EnglishUnitedStates">H.A.Scullen</formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" l="1121" t="519" r="1544" b="772"><region><rect l="1140" t="519" r="1146" b="520"/><rect l="1140" t="520" r="1524" b="541"/><rect l="1123" t="541" r="1544" b="547"/><rect l="1140" t="547" r="1524" b="737"/><rect l="1121" t="737" r="1540" b="745"/><rect l="1140" t="745" r="1524" b="769"/><rect l="1140" t="769" r="1146" b="772"/></region>
+<separatorsBox>
+<separator type="Black" thickness="5"><start x="1123" y="544"/><end x="1544" y="544"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1121" y="741"/><end x="1540" y="741"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1143" y="519"/><end x="1143" y="772"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1519" y="520"/><end x="1519" y="769"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" l="1156" t="594" r="1350" b="600"><region><rect l="1156" t="594" r="1350" b="600"/></region>
+<separator type="Black" thickness="6"><start x="1156" y="597"/><end x="1350" y="597"/>
+</separator>
+</block>
+<block blockType="Separator" l="1179" t="642" r="1422" b="649"><region><rect l="1319" t="642" r="1422" b="643"/><rect l="1179" t="643" r="1422" b="648"/><rect l="1179" t="648" r="1319" b="649"/></region>
+<separator type="Black" thickness="6"><start x="1179" y="645"/><end x="1422" y="645"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{1733C9AD-E1D2-41C1-94CC-640145AA099A}"/><elemId id="{9289B23D-3416-42DD-B9E7-4A1B92B3C14D}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="350">
+<block blockType="Text" pageElemId="{1733C9AD-E1D2-41C1-94CC-640145AA099A}" l="1185" t="299" r="1507" b="436"><region><rect l="1185" t="299" r="1507" b="436"/></region>
+<text id="{1733C9AD-E1D2-41C1-94CC-640145AA099A}">
+<par align="Justified" leftIndent="700" rightIndent="900" lineSpacing="1193">
+<line baseline="344" l="1192" t="304" r="1474" b="355"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="402" l="1192" t="362" r="1500" b="404"><formatting lang="EnglishUnitedStates">EMEC 609,916</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" pageElemId="{9289B23D-3416-42DD-B9E7-4A1B92B3C14D}" l="1171" t="412" r="1516" b="606"><region><rect l="1171" t="412" r="1516" b="606"/></region>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="196" height="45">
+<text id="{7FD350BB-8125-4FB9-9195-521D061593ED}">
+<par align="Right" rightIndent="200">
+<line baseline="428" l="1285" t="414" r="1359" b="428"><formatting lang="EnglishUnitedStates">■ v«r-</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="45">
+<text id="{42640482-3007-4465-A2E3-0142DC49D8EB}">
+<par>
+<line baseline="453" l="1367" t="417" r="1515" b="462"><formatting lang="EnglishUnitedStates">i’v: _</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="196" height="45">
+<text id="{8353BDEB-D5DA-4A09-934E-21DBFF29ADEB}">
+<par leftIndent="900">
+<line baseline="491" l="1214" t="458" r="1329" b="494"><formatting lang="EnglishUnitedStates">Flight</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="45">
+<text id="{ADE59FA1-C508-4CC7-9FD3-6BF7701ACC6D}">
+<par lineSpacing="-1"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="196" height="33">
+<text id="{C5BA35FD-CF1C-4C36-98BA-599653C048EC}">
+<par leftIndent="900" lineSpacing="-1"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="33">
+<text id="{BE181784-6BB2-49DD-BFD2-8ED2F40A93B0}">
+<par lineSpacing="-1"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="196" height="71">
+<text id="{692E468C-80F1-4292-A471-E958D668858B}">
+<par leftIndent="900">
+<line baseline="568" l="1212" t="543" r="1284" b="575"><formatting lang="EnglishUnitedStates">trap</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="71">
+<text id="{E6EEDA34-9FFB-41D5-867E-8B466C4177CE}">
+<par lineSpacing="-1"></par>
+</text></cell></row>
+</block>
+<block blockType="Text" pageElemId="{511BB71E-792F-4263-90CB-9E7314D4264F}" l="1150" t="610" r="1520" b="826"><region><rect l="1150" t="610" r="1520" b="826"/></region>
+<text id="{511BB71E-792F-4263-90CB-9E7314D4264F}">
+<par lineSpacing="843">
+<line baseline="645" l="1160" t="617" r="1510" b="651"><formatting lang="EnglishUnitedStates">CALIF:Monterey Co.</formatting></line>
+<line baseline="685" l="1159" t="657" r="1513" b="688"><formatting lang="EnglishUnitedStates">5 air mi SW Green¬</formatting></line>
+<line baseline="727" l="1159" t="697" r="1493" b="737"><formatting lang="EnglishUnitedStates">field,Arroyo Spco</formatting></line>
+<line baseline="765" l="1158" t="737" r="1493" b="767"><formatting lang="EnglishUnitedStates">River 400&apos; W W</formatting></line>
+<line baseline="810" l="1157" t="777" r="1507" b="818"><formatting lang="EnglishUnitedStates">R. Wharton V”8-1S</formatting></line></par>
+</text>
+</block>
+</page>
+</document>

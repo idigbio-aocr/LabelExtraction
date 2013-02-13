@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{1651D72F-EBC2-4410-AF80-5802BAB3F8BC}"/><elemId id="{7E364F28-084C-4F4A-B72F-30D0F0A12AAB}"/><elemId id="{CD001B13-F2D4-4867-9316-632983709465}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="480">
+<block blockType="Picture" pageElemId="{1651D72F-EBC2-4410-AF80-5802BAB3F8BC}" l="2" t="2" r="702" b="456"><region><rect l="2" t="2" r="702" b="456"/></region>
+</block>
+<block blockType="Text" l="398" t="630" r="642" b="802"><region><rect l="398" t="630" r="642" b="802"/></region>
+</block>
+<block blockType="Text" pageElemId="{7E364F28-084C-4F4A-B72F-30D0F0A12AAB}" l="952" t="368" r="1324" b="568"><region><rect l="952" t="368" r="1324" b="496"/><rect l="952" t="496" r="1180" b="568"/></region>
+<text id="{7E364F28-084C-4F4A-B72F-30D0F0A12AAB}">
+<par leftIndent="14600" rightIndent="1400" lineSpacing="960">
+<line baseline="421" l="969" t="379" r="1286" b="430"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="484" l="970" t="444" r="1319" b="487"><formatting lang="EnglishUnitedStates">EMEC 609,898</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" l="1088" t="544" r="1340" b="600"><region><rect l="1256" t="544" r="1340" b="568"/><rect l="1088" t="568" r="1340" b="576"/><rect l="1088" t="576" r="1128" b="600"/></region>
+</block>
+<block blockType="Text" pageElemId="{CD001B13-F2D4-4867-9316-632983709465}" l="956" t="592" r="1380" b="856"><region><rect l="956" t="592" r="1380" b="856"/></region>
+<text id="{CD001B13-F2D4-4867-9316-632983709465}">
+<par leftIndent="14600" rightIndent="1400" lineSpacing="675">
+<line baseline="643" l="977" t="597" r="1309" b="651"><formatting lang="EnglishUnitedStates">Watts Valley</formatting></line>
+<line baseline="687" l="972" t="642" r="1253" b="692"><formatting lang="EnglishUnitedStates">Fresco Co.</formatting></line></par>
+<par leftIndent="14600">
+<line baseline="846" l="989" t="757" r="1355" b="851"><formatting lang="EnglishUnitedStates">Collector18 ter</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="32" t="106" r="42" b="284"><region><rect l="34" t="106" r="42" b="222"/><rect l="32" t="222" r="38" b="284"/></region>
+<separator type="Black" thickness="4"><start x="37" y="106"/><end x="37" y="284"/>
+</separator>
+</block>
+<block blockType="Separator" l="188" t="106" r="198" b="378"><region><rect l="190" t="106" r="198" b="322"/><rect l="188" t="322" r="194" b="378"/></region>
+<separator type="Black" thickness="3"><start x="193" y="106"/><end x="193" y="378"/>
+</separator>
+</block>
+<block blockType="Separator" l="348" t="104" r="358" b="284"><region><rect l="350" t="104" r="358" b="260"/><rect l="348" t="260" r="356" b="284"/></region>
+<separator type="Black" thickness="4"><start x="353" y="104"/><end x="353" y="284"/>
+</separator>
+</block>
+<block blockType="Separator" l="508" t="104" r="516" b="372"><region><rect l="508" t="104" r="516" b="372"/></region>
+<separator type="Black" thickness="4"><start x="512" y="104"/><end x="512" y="372"/>
+</separator>
+</block>
+<block blockType="Separator" l="670" t="104" r="678" b="284"><region><rect l="670" t="104" r="678" b="284"/></region>
+<separator type="Black" thickness="4"><start x="674" y="104"/><end x="674" y="284"/>
+</separator>
+</block>
+<block blockType="Separator" l="828" t="106" r="852" b="440"><region><rect l="834" t="106" r="852" b="378"/><rect l="828" t="378" r="850" b="416"/><rect l="840" t="416" r="850" b="440"/></region>
+<separator type="Black" thickness="9"><start x="840" y="106"/><end x="840" y="440"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{CF6DC92B-451A-46EB-B4C9-1DC84910BBFA}"/></stream><stream role="incut" beginPage="0"><elemId id="{61176C21-E589-4034-B358-E8DD07B7D172}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="410">
+<block blockType="Picture" pageElemId="{61176C21-E589-4034-B358-E8DD07B7D172}" l="2" t="0" r="754" b="682"><region><rect l="2" t="0" r="754" b="682"/></region>
+</block>
+<block blockType="Text" pageElemId="{CF6DC92B-451A-46EB-B4C9-1DC84910BBFA}" l="1016" t="300" r="1506" b="588"><region><rect l="1220" t="300" r="1314" b="306"/><rect l="1040" t="306" r="1314" b="308"/><rect l="1040" t="308" r="1506" b="326"/><rect l="1038" t="326" r="1506" b="328"/><rect l="1016" t="328" r="1506" b="546"/><rect l="1066" t="546" r="1506" b="550"/><rect l="1174" t="550" r="1506" b="588"/></region>
+<text id="{CF6DC92B-451A-46EB-B4C9-1DC84910BBFA}">
+<par leftIndent="200" rightIndent="800" lineSpacing="1019">
+<line baseline="350" l="1050" t="308" r="1411" b="355"><formatting lang="EnglishUnitedStates">U.C. Berkeley -</formatting></line>
+<line baseline="409" l="1047" t="350" r="1475" b="448"><formatting lang="EnglishUnitedStates">EMEC 609,588 ||&apos;&apos;</formatting></line></par>
+<par leftIndent="200" rightIndent="800" lineSpacing="667">
+<line baseline="506" l="1033" t="466" r="1498" b="511"><formatting lang="EnglishUnitedStates">15 kmS San Juan del</formatting></line>
+<line baseline="545" l="1032" t="506" r="1379" b="585"><formatting lang="EnglishUnitedStates">Rio, Qrt^.Mex.</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="176" t="0" r="190" b="220"><region><rect l="182" t="0" r="190" b="98"/><rect l="180" t="98" r="186" b="148"/><rect l="176" t="148" r="184" b="220"/></region>
+<separator type="Black" thickness="3"><start x="183" y="0"/><end x="183" y="220"/>
+</separator>
+</block>
+<block blockType="Separator" l="454" t="0" r="468" b="226"><region><rect l="460" t="0" r="468" b="100"/><rect l="458" t="100" r="464" b="162"/><rect l="454" t="162" r="462" b="226"/></region>
+<separator type="Black" thickness="3"><start x="461" y="0"/><end x="461" y="226"/>
+</separator>
+</block>
+<block blockType="Separator" l="598" t="0" r="608" b="146"><region><rect l="600" t="0" r="608" b="118"/><rect l="598" t="118" r="606" b="146"/></region>
+<separator type="Black" thickness="3"><start x="603" y="0"/><end x="603" y="146"/>
+</separator>
+</block>
+<block blockType="Separator" l="736" t="0" r="748" b="232"><region><rect l="740" t="0" r="748" b="126"/><rect l="738" t="126" r="744" b="206"/><rect l="736" t="206" r="742" b="232"/></region>
+<separator type="Black" thickness="3"><start x="742" y="0"/><end x="742" y="232"/>
+</separator>
+</block>
+<block blockType="Separator" l="880" t="0" r="890" b="154"><region><rect l="882" t="0" r="890" b="84"/><rect l="880" t="84" r="888" b="154"/></region>
+<separator type="Black" thickness="4"><start x="885" y="0"/><end x="885" y="154"/>
+</separator>
+</block>
+</page>
+</document>

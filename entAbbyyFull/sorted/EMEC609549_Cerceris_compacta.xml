@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{2C72A820-1976-47BE-BE27-0BFDD0216B25}"/><elemId id="{A2F2EAF0-E07F-495A-BA52-9A0A114CFFA6}"/><elemId id="{9B12173D-255A-4CBD-ABAA-3717A1348EE2}"/><elemId id="{F4515A91-127B-436A-A100-D7922FF42EA9}"/></stream><stream role="incut" beginPage="0"><elemId id="{6EC64A1F-9C3A-4264-9EAC-88BC627DF480}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="410">
+<block blockType="Picture" pageElemId="{2C72A820-1976-47BE-BE27-0BFDD0216B25}" l="554" t="0" r="1084" b="316"><region><rect l="554" t="0" r="1084" b="316"/></region>
+</block>
+<block blockType="Text" pageElemId="{A2F2EAF0-E07F-495A-BA52-9A0A114CFFA6}" l="1096" t="292" r="1506" b="556"><region><rect l="1116" t="292" r="1506" b="354"/><rect l="1096" t="354" r="1506" b="556"/></region>
+<text id="{A2F2EAF0-E07F-495A-BA52-9A0A114CFFA6}">
+<par align="Right" rightIndent="500" lineSpacing="1001">
+<line baseline="349" l="1126" t="308" r="1502" b="352"><formatting lang="EnglishUnitedStates">U.C. Berkeley Y.</formatting></line>
+<line baseline="405" l="1123" t="364" r="1431" b="409"><formatting lang="EnglishUnitedStates">EMEC 609.549</formatting></line></par>
+<par>
+<line baseline="495" l="1117" t="453" r="1285" b="506"><formatting lang="EnglishUnitedStates">/Oyn^SfA</formatting></line></par>
+<par align="Right" rightIndent="500">
+<line baseline="542" l="1135" t="500" r="1388" b="550"><formatting lang="EnglishUnitedStates">v,*/7:&lt;w</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{9B12173D-255A-4CBD-ABAA-3717A1348EE2}" l="1128" t="598" r="1404" b="650"><region><rect l="1128" t="598" r="1404" b="650"/></region>
+<text id="{9B12173D-255A-4CBD-ABAA-3717A1348EE2}">
+<par align="Right" rightIndent="500">
+<line baseline="635" l="1133" t="602" r="1387" b="646"><formatting lang="EnglishUnitedStates">Cerceris 4</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{F4515A91-127B-436A-A100-D7922FF42EA9}" l="1128" t="648" r="1438" b="786"><region><rect l="1152" t="648" r="1424" b="682"/><rect l="1128" t="682" r="1424" b="686"/><rect l="1128" t="686" r="1438" b="752"/><rect l="1128" t="752" r="1424" b="786"/></region>
+<text id="{F4515A91-127B-436A-A100-D7922FF42EA9}">
+<par rightIndent="500" lineSpacing="860">
+<line baseline="683" l="1157" t="651" r="1417" b="691"><formatting lang="EnglishUnitedStates">compacta Cr</formatting></line>
+<line baseline="735" l="1131" t="690" r="1432" b="748"><formatting lang="EnglishUnitedStates">Det. by~iyf</formatting></line>
+<line baseline="782" l="1156" t="749" r="1418" b="783"><formatting lang="EnglishUnitedStates">H.A.Scullen</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{6EC64A1F-9C3A-4264-9EAC-88BC627DF480}" l="1444" t="580" r="1530" b="690"><region><rect l="1444" t="580" r="1530" b="690"/></region>
+<text id="{6EC64A1F-9C3A-4264-9EAC-88BC627DF480}">
+<par>
+<line baseline="682" l="1445" t="581" r="1489" b="685"><formatting lang="EnglishUnitedStates">T</formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" l="1092" t="568" r="1456" b="818"><region><rect l="1116" t="568" r="1440" b="592"/><rect l="1094" t="592" r="1456" b="598"/><rect l="1116" t="598" r="1440" b="790"/><rect l="1092" t="790" r="1454" b="796"/><rect l="1116" t="796" r="1440" b="816"/><rect l="1116" t="816" r="1124" b="818"/></region>
+<separatorsBox>
+<separator type="Black" thickness="3"><start x="1094" y="595"/><end x="1456" y="595"/>
+</separator>
+<separator type="Black" thickness="3"><start x="1092" y="793"/><end x="1454" y="793"/>
+</separator>
+<separator type="Black" thickness="3"><start x="1120" y="568"/><end x="1120" y="818"/>
+</separator>
+<separator type="Black" thickness="3"><start x="1437" y="568"/><end x="1437" y="816"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" l="1132" t="644" r="1322" b="650"><region><rect l="1132" t="644" r="1322" b="650"/></region>
+<separator type="Black" thickness="3"><start x="1132" y="647"/><end x="1322" y="647"/>
+</separator>
+</block>
+<block blockType="Separator" l="1152" t="690" r="1352" b="700"><region><rect l="1246" t="690" r="1352" b="692"/><rect l="1152" t="692" r="1352" b="698"/><rect l="1246" t="698" r="1256" b="700"/></region>
+<separator type="Black" thickness="4"><start x="1152" y="695"/><end x="1352" y="695"/>
+</separator>
+</block>
+<block blockType="Separator" l="664" t="0" r="674" b="148"><region><rect l="666" t="0" r="674" b="132"/><rect l="664" t="132" r="670" b="148"/></region>
+<separator type="Black" thickness="3"><start x="669" y="0"/><end x="669" y="148"/>
+</separator>
+</block>
+<block blockType="Separator" l="804" t="0" r="814" b="222"><region><rect l="806" t="0" r="814" b="138"/><rect l="804" t="138" r="810" b="222"/></region>
+<separator type="Black" thickness="3"><start x="809" y="0"/><end x="809" y="222"/>
+</separator>
+</block>
+<block blockType="Separator" l="946" t="0" r="954" b="156"><region><rect l="946" t="0" r="954" b="156"/></region>
+<separator type="Black" thickness="4"><start x="950" y="0"/><end x="950" y="156"/>
+</separator>
+</block>
+<block blockType="Separator" l="1086" t="0" r="1102" b="306"><region><rect l="1086" t="0" r="1102" b="306"/></region>
+<separator type="Black" thickness="5"><start x="1094" y="0"/><end x="1094" y="306"/>
+</separator>
+</block>
+<block blockType="Picture" l="1116" t="592" r="1440" b="796"><region><rect l="1116" t="592" r="1440" b="796"/></region>
+</block>
+</page>
+</document>

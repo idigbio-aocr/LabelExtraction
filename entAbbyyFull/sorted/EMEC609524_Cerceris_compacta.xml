@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{050692C2-5803-4476-BE3E-CDC1B0A5D89F}"/><elemId id="{A0C3B056-75F1-4D1F-A246-078F2EC3FDC2}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="410">
+<block blockType="Text" pageElemId="{050692C2-5803-4476-BE3E-CDC1B0A5D89F}" l="1136" t="132" r="1574" b="564"><region><rect l="1184" t="132" r="1574" b="290"/><rect l="1154" t="290" r="1574" b="294"/><rect l="1152" t="294" r="1574" b="340"/><rect l="1144" t="340" r="1574" b="432"/><rect l="1136" t="432" r="1574" b="564"/></region>
+<text id="{050692C2-5803-4476-BE3E-CDC1B0A5D89F}">
+<par align="Justified" leftIndent="800" rightIndent="1000" lineSpacing="1036">
+<line baseline="194" l="1203" t="144" r="1476" b="200"><formatting lang="EnglishUnitedStates">U C. Berkeley</formatting></line>
+<line baseline="252" l="1200" t="199" r="1546" b="267"><formatting lang="EnglishUnitedStates">EMEC 609.524 V</formatting></line></par>
+<par align="Justified" leftIndent="100" rightIndent="100" lineSpacing="755">
+<line baseline="338" l="1167" t="298" r="1529" b="343"><formatting lang="EnglishUnitedStates">B. I. Schlinger ;</formatting></line>
+<line baseline="380" l="1167" t="344" r="1368" b="381"><formatting lang="EnglishUnitedStates">GollectoV</formatting></line></par>
+<par align="Justified" leftIndent="100" lineSpacing="773">
+<line baseline="471" l="1155" t="429" r="1558" b="473"><formatting lang="EnglishUnitedStates">Nombre de Dios &gt;</formatting></line>
+<line baseline="514" l="1155" t="473" r="1566" b="524"><formatting lang="EnglishUnitedStates">Durango, MEX. y</formatting></line>
+<line baseline="559" l="1155" t="519" r="1411" b="559"><formatting lang="EnglishUnitedStates">V1I-13-1954</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{A0C3B056-75F1-4D1F-A246-078F2EC3FDC2}" l="1192" t="598" r="1544" b="858"><region><rect l="1192" t="598" r="1508" b="750"/><rect l="1192" t="750" r="1544" b="820"/><rect l="1192" t="820" r="1512" b="858"/></region>
+<text id="{A0C3B056-75F1-4D1F-A246-078F2EC3FDC2}">
+<par leftIndent="800" rightIndent="600" lineSpacing="843">
+<line baseline="650" l="1199" t="617" r="1487" b="657"><formatting lang="EnglishUnitedStates">Cerceris $</formatting></line>
+<line baseline="697" l="1226" t="667" r="1419" b="706"><formatting lang="EnglishUnitedStates">ccunpacta</formatting></line>
+<line baseline="747" l="1228" t="713" r="1508" b="756"><formatting lang="EnglishUnitedStates">compacta Cr,</formatting></line>
+<line baseline="804" l="1202" t="744" r="1351" b="810"><formatting lang="EnglishUnitedStates">DetXy</formatting></line>
+<line baseline="847" l="1228" t="815" r="1498" b="850"><formatting lang="EnglishUnitedStates">H.A.Scullen</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="1280" t="596" r="1538" b="610"><region><rect l="1490" t="596" r="1538" b="598"/><rect l="1430" t="598" r="1538" b="600"/><rect l="1384" t="600" r="1538" b="602"/><rect l="1280" t="602" r="1490" b="606"/><rect l="1280" t="606" r="1384" b="610"/></region>
+<separator type="Black" thickness="4"><start x="1280" y="603"/><end x="1538" y="603"/>
+</separator>
+</block>
+<block blockType="Separator" l="1194" t="658" r="1396" b="672"><region><rect l="1280" t="658" r="1396" b="662"/><rect l="1230" t="662" r="1396" b="664"/><rect l="1194" t="664" r="1364" b="668"/><rect l="1194" t="668" r="1280" b="670"/><rect l="1194" t="670" r="1230" b="672"/></region>
+<separator type="Black" thickness="4"><start x="1194" y="665"/><end x="1396" y="665"/>
+</separator>
+</block>
+<block blockType="Separator" l="1222" t="706" r="1422" b="720"><region><rect l="1378" t="706" r="1422" b="708"/><rect l="1296" t="708" r="1422" b="710"/><rect l="1222" t="710" r="1422" b="714"/><rect l="1222" t="714" r="1378" b="718"/><rect l="1222" t="718" r="1296" b="720"/></region>
+<separator type="Black" thickness="4"><start x="1222" y="713"/><end x="1422" y="713"/>
+</separator>
+</block>
+<block blockType="Separator" l="1222" t="756" r="1422" b="770"><region><rect l="1384" t="756" r="1422" b="758"/><rect l="1300" t="758" r="1422" b="760"/><rect l="1284" t="760" r="1422" b="762"/><rect l="1222" t="762" r="1422" b="764"/><rect l="1222" t="764" r="1384" b="766"/><rect l="1222" t="766" r="1300" b="768"/><rect l="1222" t="768" r="1284" b="770"/></region>
+<separator type="Black" thickness="4"><start x="1222" y="763"/><end x="1422" y="763"/>
+</separator>
+</block>
+<block blockType="Separator" l="1174" t="854" r="1414" b="868"><region><rect l="1374" t="854" r="1414" b="856"/><rect l="1322" t="856" r="1414" b="858"/><rect l="1280" t="858" r="1414" b="860"/><rect l="1174" t="860" r="1374" b="864"/><rect l="1174" t="864" r="1280" b="868"/></region>
+<separator type="Black" thickness="3"><start x="1174" y="861"/><end x="1414" y="861"/>
+</separator>
+</block>
+<block blockType="Separator" l="1178" t="598" r="1192" b="882"><region><rect l="1178" t="598" r="1186" b="718"/><rect l="1182" t="718" r="1190" b="832"/><rect l="1186" t="832" r="1192" b="882"/></region>
+<separator type="Black" thickness="3"><start x="1185" y="598"/><end x="1185" y="882"/>
+</separator>
+</block>
+<block blockType="Separator" l="1528" t="586" r="1544" b="866"><region><rect l="1528" t="586" r="1536" b="682"/><rect l="1532" t="682" r="1538" b="746"/><rect l="1534" t="746" r="1540" b="800"/><rect l="1536" t="800" r="1542" b="846"/><rect l="1536" t="846" r="1544" b="856"/><rect l="1538" t="856" r="1544" b="866"/></region>
+<separator type="Black" thickness="3"><start x="1536" y="586"/><end x="1536" y="866"/>
+</separator>
+</block>
+</page>
+</document>

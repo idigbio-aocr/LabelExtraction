@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{0AF96A25-8A28-4367-A91F-BC47A6B41FD2}"/><elemId id="{F69516DC-BCCA-4F1A-9FC7-004DD9C8F359}"/><elemId id="{E06D3EAD-22B4-49E4-A816-1ACB538761E2}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="300">
+<block blockType="Text" pageElemId="{0AF96A25-8A28-4367-A91F-BC47A6B41FD2}" l="1086" t="323" r="1412" b="547"><region><rect l="1097" t="323" r="1381" b="382"/><rect l="1098" t="382" r="1381" b="387"/><rect l="1086" t="387" r="1412" b="547"/></region>
+<text id="{0AF96A25-8A28-4367-A91F-BC47A6B41FD2}">
+<par leftIndent="200" rightIndent="3600" lineSpacing="1392">
+<line baseline="372" l="1097" t="334" r="1381" b="382"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="430" l="1097" t="393" r="1406" b="432"><formatting lang="EnglishUnitedStates">EMEC 609.933</formatting></line></par>
+<par leftIndent="200">
+<line baseline="490" l="1093" t="471" r="1134" b="490"><formatting lang="EnglishUnitedStates">on</formatting></line></par>
+<par leftIndent="200">
+<line baseline="530" l="1092" t="503" r="1285" b="530"><formatting lang="EnglishUnitedStates">Melilottis</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{F69516DC-BCCA-4F1A-9FC7-004DD9C8F359}" l="1086" t="581" r="1536" b="784"><region><rect l="1086" t="581" r="1536" b="784"/></region>
+<text id="{F69516DC-BCCA-4F1A-9FC7-004DD9C8F359}">
+<par leftIndent="200" rightIndent="800" lineSpacing="960">
+<line baseline="615" l="1092" t="587" r="1481" b="622"><formatting lang="EnglishUnitedStates">ARIZ: Cochise Co.,</formatting></line>
+<line baseline="655" l="1095" t="628" r="1530" b="662"><formatting lang="EnglishUnitedStates">Stewart Camp, 2mi SW</formatting></line>
+<line baseline="696" l="1096" t="667" r="1436" b="708"><formatting lang="EnglishUnitedStates">Portal 4800&apos; e^.</formatting></line></par>
+<par leftIndent="200" rightIndent="800" lineSpacing="960">
+<line baseline="736" l="1094" t="709" r="1456" b="737"><formatting lang="EnglishUnitedStates">R. Coville collr.</formatting></line>
+<line baseline="776" l="1092" t="746" r="1373" b="778"><formatting lang="EnglishUnitedStates">VIII-2/3-1973</formatting></line></par>
+</text>
+</block>
+<block blockType="Picture" pageElemId="{E06D3EAD-22B4-49E4-A816-1ACB538761E2}" l="1084" t="802" r="1520" b="902"><region><rect l="1084" t="802" r="1520" b="902"/></region>
+</block>
+<block blockType="Text" pageElemId="{3493E2A1-E526-4694-AC59-ECF43AE45E67}" l="1253" t="894" r="1276" b="932"><region><rect l="1253" t="894" r="1276" b="932"/></region>
+<text id="{3493E2A1-E526-4694-AC59-ECF43AE45E67}">
+<par>
+<line baseline="926" l="1259" t="896" r="1270" b="931"><formatting lang="EnglishUnitedStates">\</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="1145" t="440" r="1336" b="446"><region><rect l="1159" t="440" r="1258" b="442"/><rect l="1191" t="442" r="1336" b="443"/><rect l="1185" t="443" r="1336" b="444"/><rect l="1145" t="444" r="1336" b="445"/><rect l="1145" t="445" r="1258" b="446"/></region>
+<separator type="Black" thickness="3"><start x="1145" y="443"/><end x="1336" y="443"/>
+</separator>
+</block>
+<block blockType="Separator" l="1158" t="562" r="1292" b="566"><region><rect l="1264" t="562" r="1288" b="563"/><rect l="1158" t="563" r="1288" b="564"/><rect l="1158" t="564" r="1292" b="566"/></region>
+<separator type="Black" thickness="3"><start x="1158" y="564"/><end x="1292" y="564"/>
+</separator>
+</block>
+</page>
+</document>

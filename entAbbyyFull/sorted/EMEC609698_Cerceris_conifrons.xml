@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{D3D9ECC3-5E88-474F-8CF8-71DDA71C84B4}"/><elemId id="{5B6CAFC1-2B5B-48E2-BD4B-59EA9C44F0A1}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="400">
+<block blockType="Text" pageElemId="{D3D9ECC3-5E88-474F-8CF8-71DDA71C84B4}" l="1122" t="150" r="1480" b="705"><region><rect l="1122" t="150" r="1477" b="291"/><rect l="1122" t="291" r="1480" b="338"/><rect l="1122" t="338" r="1479" b="705"/></region>
+<text id="{D3D9ECC3-5E88-474F-8CF8-71DDA71C84B4}">
+<par leftIndent="200" rightIndent="1400" lineSpacing="1026">
+<line baseline="213" l="1130" t="175" r="1407" b="214"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="271" l="1131" t="233" r="1435" b="271"><formatting lang="EnglishUnitedStates">EMEC 609.698</formatting></line></par>
+<par leftIndent="200" rightIndent="700" lineSpacing="828">
+<line baseline="350" l="1140" t="313" r="1470" b="351"><formatting lang="EnglishUnitedStates">Mont:LatinCo.</formatting></line>
+<line baseline="389" l="1140" t="355" r="1401" b="389"><formatting lang="EnglishUnitedStates">AmstAdam</formatting></line>
+<line baseline="428" l="1146" t="394" r="1353" b="428"><formatting lang="EnglishUnitedStates">VI1I-6-62</formatting></line>
+<line baseline="474" l="1185" t="432" r="1310" b="481"><formatting lang="EnglishUnitedStates">&apos; I</formatting></line>
+<line baseline="534" l="1197" t="501" r="1389" b="538"><formatting lang="EnglishUnitedStates">Solidago</formatting></line></par>
+<par leftIndent="200">
+<line baseline="630" l="1153" t="597" r="1427" b="640"><formatting lang="EnglishUnitedStates">E.G.JLinsley</formatting></line></par>
+<par leftIndent="200">
+<line baseline="669" l="1152" t="637" r="1358" b="673"><formatting lang="EnglishUnitedStates">Collector</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{5B6CAFC1-2B5B-48E2-BD4B-59EA9C44F0A1}" l="1139" t="788" r="1445" b="886"><region><rect l="1139" t="788" r="1445" b="886"/></region>
+<text id="{5B6CAFC1-2B5B-48E2-BD4B-59EA9C44F0A1}">
+<par align="Right" leftIndent="200" rightIndent="1400" lineSpacing="720">
+<line baseline="836" l="1147" t="794" r="1437" b="843"><formatting lang="EnglishUnitedStates">Det7by7~M}ck.</formatting></line>
+<line baseline="876" l="1166" t="833" r="1424" b="877"><formatting lang="EnglishUnitedStates">H.A.Scull@66</formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" l="1125" t="707" r="1457" b="896"><region><rect l="1134" t="707" r="1141" b="708"/><rect l="1134" t="708" r="1448" b="718"/><rect l="1128" t="718" r="1455" b="724"/><rect l="1134" t="724" r="1448" b="881"/><rect l="1125" t="881" r="1457" b="887"/><rect l="1134" t="887" r="1448" b="895"/><rect l="1134" t="895" r="1141" b="896"/></region>
+<separatorsBox>
+<separator type="Black" thickness="5"><start x="1128" y="721"/><end x="1455" y="721"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1125" y="884"/><end x="1457" y="884"/>
+</separator>
+<separator type="Black" thickness="6"><start x="1137" y="707"/><end x="1137" y="896"/>
+</separator>
+<separator type="Black" thickness="6"><start x="1444" y="708"/><end x="1444" y="895"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" l="1146" t="757" r="1317" b="763"><region><rect l="1146" t="757" r="1317" b="763"/></region>
+<separator type="Black" thickness="5"><start x="1146" y="760"/><end x="1317" y="760"/>
+</separator>
+</block>
+<block blockType="Separator" l="1167" t="796" r="1361" b="802"><region><rect l="1167" t="796" r="1361" b="802"/></region>
+<separator type="Black" thickness="5"><start x="1167" y="799"/><end x="1361" y="799"/>
+</separator>
+</block>
+</page>
+</document>

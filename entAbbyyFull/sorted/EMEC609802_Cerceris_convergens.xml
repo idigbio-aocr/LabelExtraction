@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{E30EA622-FCAB-4728-81B9-9686EFBE73B6}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="370">
+<block blockType="Text" pageElemId="{E30EA622-FCAB-4728-81B9-9686EFBE73B6}" l="1027" t="230" r="1540" b="851"><region><rect l="1027" t="230" r="1540" b="851"/></region>
+<text id="{E30EA622-FCAB-4728-81B9-9686EFBE73B6}">
+<par leftIndent="600" rightIndent="2700" lineSpacing="1070">
+<line baseline="277" l="1092" t="237" r="1370" b="288"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="333" l="1091" t="294" r="1397" b="341"><formatting lang="EnglishUnitedStates">EMEC 609,802</formatting></line>
+<line baseline="384" l="1116" t="379" r="1129" b="384"><formatting lang="EnglishUnitedStates">...</formatting></line></par>
+<par leftIndent="100">
+<line baseline="421" l="1060" t="388" r="1354" b="436"><formatting lang="EnglishUnitedStates">Morongp Vy.</formatting></line></par>
+<par leftIndent="100">
+<line baseline="462" l="1060" t="427" r="1498" b="464"><formatting lang="EnglishUnitedStates">San Bernardino Co.</formatting></line></par>
+<par leftIndent="100" rightIndent="700" lineSpacing="759">
+<line baseline="562" l="1065" t="526" r="1447" b="573"><formatting lang="EnglishUnitedStates">O. C..La E raneei</formatting></line>
+<line baseline="602" l="1065" t="566" r="1271" b="603"><formatting lang="EnglishUnitedStates">Collector</formatting></line></par>
+<par leftIndent="600">
+<line baseline="644" l="1087" t="606" r="1346" b="646"><formatting lang="EnglishUnitedStates">&apos;mTWT&apos;EZ</formatting></line></par>
+<par leftIndent="600" rightIndent="1300" lineSpacing="934">
+<line baseline="695" l="1090" t="664" r="1356" b="711"><formatting lang="EnglishUnitedStates">Cerceris g</formatting></line>
+<line baseline="743" l="1118" t="721" r="1353" b="751"><formatting lang="EnglishUnitedStates">convergens</formatting></line>
+<line baseline="793" l="1092" t="760" r="1469" b="802"><formatting lang="EnglishUnitedStates">Det. by V.&amp; C.&apos;</formatting></line></par>
+<par leftIndent="1100">
+<line baseline="835" l="1118" t="798" r="1439" b="844"><formatting lang="EnglishUnitedStates">H.A.ScuIlenb^</formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" l="1069" t="643" r="1461" b="864"><region><rect l="1449" t="643" r="1456" b="646"/><rect l="1073" t="646" r="1456" b="650"/><rect l="1069" t="650" r="1459" b="660"/><rect l="1073" t="660" r="1456" b="846"/><rect l="1069" t="846" r="1461" b="857"/><rect l="1073" t="857" r="1082" b="864"/></region>
+<separatorsBox>
+<separator type="Black" thickness="5"><start x="1069" y="655"/><end x="1459" y="655"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1069" y="851"/><end x="1461" y="851"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1077" y="646"/><end x="1077" y="864"/>
+</separator>
+<separator type="Black" thickness="4"><start x="1452" y="643"/><end x="1452" y="856"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" l="1087" t="705" r="1286" b="712"><region><rect l="1167" t="705" r="1286" b="707"/><rect l="1087" t="707" r="1286" b="711"/><rect l="1087" t="711" r="1167" b="712"/></region>
+<separator type="Black" thickness="5"><start x="1087" y="708"/><end x="1286" y="708"/>
+</separator>
+</block>
+<block blockType="Separator" l="1113" t="752" r="1358" b="761"><region><rect l="1299" t="752" r="1358" b="753"/><rect l="1202" t="753" r="1358" b="754"/><rect l="1173" t="754" r="1358" b="755"/><rect l="1113" t="755" r="1358" b="758"/><rect l="1113" t="758" r="1299" b="759"/><rect l="1113" t="759" r="1207" b="760"/><rect l="1113" t="760" r="1173" b="761"/></region>
+<separator type="Black" thickness="6"><start x="1113" y="756"/><end x="1358" y="756"/>
+</separator>
+</block>
+<block blockType="Picture" l="1073" t="650" r="1456" b="857"><region><rect l="1073" t="650" r="1456" b="857"/></region>
+</block>
+</page>
+</document>

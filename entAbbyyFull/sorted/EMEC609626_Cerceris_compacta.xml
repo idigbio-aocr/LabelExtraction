@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{D6AA5A2C-BC2B-4A4F-A3B8-E9D045B2762A}"/></stream><stream role="incut" beginPage="0"><elemId id="{B543DF50-06BF-4F67-BE4C-5ED4E7A873FE}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="470">
+<block blockType="Picture" pageElemId="{B543DF50-06BF-4F67-BE4C-5ED4E7A873FE}" l="630" t="0" r="1040" b="564"><region><rect l="630" t="0" r="1040" b="564"/></region>
+</block>
+<block blockType="Text" pageElemId="{D6AA5A2C-BC2B-4A4F-A3B8-E9D045B2762A}" l="1040" t="286" r="1376" b="684"><region><rect l="1040" t="286" r="1376" b="684"/></region>
+<text id="{D6AA5A2C-BC2B-4A4F-A3B8-E9D045B2762A}">
+<par leftIndent="100" rightIndent="900" lineSpacing="873">
+<line baseline="339" l="1047" t="301" r="1324" b="346"><formatting lang="EnglishUnitedStates">U.c. Berkeley</formatting></line>
+<line baseline="389" l="1051" t="356" r="1355" b="402"><formatting lang="EnglishUnitedStates">EMEC 609,626</formatting></line></par>
+<par leftIndent="100" rightIndent="900" lineSpacing="843">
+<line baseline="476" l="1061" t="433" r="1329" b="487"><formatting lang="EnglishUnitedStates">P.JD. Hurd;</formatting></line>
+<line baseline="523" l="1062" t="491" r="1374" b="549"><formatting lang="EnglishUnitedStates">Collector^ .</formatting></line>
+<line baseline="583" l="1056" t="551" r="1343" b="594"><formatting lang="EnglishUnitedStates">MEX:Chiap.;</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="602" t="2" r="610" b="156"><region><rect l="602" t="2" r="610" b="156"/></region>
+<separator type="Black" thickness="3"><start x="606" y="2"/><end x="606" y="156"/>
+</separator>
+</block>
+<block blockType="Separator" l="742" t="2" r="750" b="240"><region><rect l="742" t="2" r="750" b="240"/></region>
+<separator type="Black" thickness="3"><start x="746" y="2"/><end x="746" y="240"/>
+</separator>
+</block>
+<block blockType="Separator" l="884" t="4" r="890" b="160"><region><rect l="884" t="4" r="890" b="160"/></region>
+<separator type="Black" thickness="3"><start x="887" y="4"/><end x="887" y="160"/>
+</separator>
+</block>
+<block blockType="Separator" l="1028" t="0" r="1040" b="314"><region><rect l="1028" t="0" r="1040" b="314"/></region>
+<separator type="Black" thickness="5"><start x="1034" y="0"/><end x="1034" y="314"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{A1ECA18A-C209-43C0-96B2-26D12EED25CB}"/><elemId id="{1B2D7C0A-DE90-4DC8-A86B-14CA38AA162B}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="400">
+<block blockType="Text" pageElemId="{A1ECA18A-C209-43C0-96B2-26D12EED25CB}" l="1084" t="286" r="1403" b="392"><region><rect l="1084" t="286" r="1238" b="290"/><rect l="1084" t="290" r="1370" b="291"/><rect l="1084" t="291" r="1371" b="292"/><rect l="1084" t="292" r="1403" b="392"/></region>
+<text id="{A1ECA18A-C209-43C0-96B2-26D12EED25CB}">
+<par leftIndent="200" rightIndent="700" lineSpacing="1026">
+<line baseline="329" l="1090" t="293" r="1368" b="337"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="385" l="1092" t="350" r="1396" b="388"><formatting lang="EnglishUnitedStates">EMEC 609.625</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{1B2D7C0A-DE90-4DC8-A86B-14CA38AA162B}" l="1064" t="422" r="1356" b="756"><region><rect l="1064" t="422" r="1356" b="756"/></region>
+<text id="{1B2D7C0A-DE90-4DC8-A86B-14CA38AA162B}">
+<par leftIndent="800">
+<line baseline="457" l="1122" t="426" r="1330" b="464"><formatting lang="EnglishUnitedStates">✓omi.sE »</formatting></line></par>
+<par leftIndent="200">
+<line baseline="572" l="1098" t="466" r="1354" b="582"><formatting lang="EnglishUnitedStates">SM</formatting></line></par>
+<par leftIndent="200" rightIndent="1500" lineSpacing="648">
+<line baseline="620" l="1076" t="589" r="1341" b="631"><formatting lang="EnglishUnitedStates">F.D, Parker</formatting></line>
+<line baseline="659" l="1080" t="629" r="1345" b="670"><formatting lang="EnglishUnitedStates">L.A.Stange</formatting></line>
+<line baseline="700" l="1080" t="672" r="1309" b="712"><formatting lang="EnglishUnitedStates">Collectors</formatting></line>
+<line baseline="754" l="1224" t="723" r="1227" b="732"><formatting lang="EnglishUnitedStates">&apos;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" l="1362" t="614" r="1403" b="708"><region><rect l="1362" t="614" r="1403" b="708"/></region>
+</block>
+<block blockType="Separator" l="1159" t="394" r="1357" b="401"><region><rect l="1159" t="394" r="1192" b="395"/><rect l="1159" t="395" r="1300" b="396"/><rect l="1192" t="396" r="1357" b="399"/><rect l="1300" t="399" r="1357" b="400"/><rect l="1300" t="400" r="1341" b="401"/></region>
+<separator type="Black" thickness="3"><start x="1159" y="397"/><end x="1357" y="397"/>
+</separator>
+</block>
+</page>
+</document>

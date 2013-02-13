@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{6E3B61A9-E3DB-41BE-9F01-09AE44C6EA64}"/></stream><stream role="incut" beginPage="0"><elemId id="{8F7C0046-3E74-41F5-800F-30EC8ACB1245}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="410">
+<block blockType="Picture" pageElemId="{8F7C0046-3E74-41F5-800F-30EC8ACB1245}" l="2" t="0" r="892" b="832"><region><rect l="2" t="0" r="892" b="832"/></region>
+</block>
+<block blockType="Text" pageElemId="{6E3B61A9-E3DB-41BE-9F01-09AE44C6EA64}" l="1028" t="272" r="1466" b="722"><region><rect l="1040" t="272" r="1466" b="306"/><rect l="1038" t="306" r="1466" b="328"/><rect l="1032" t="328" r="1466" b="464"/><rect l="1028" t="464" r="1466" b="564"/><rect l="1034" t="564" r="1466" b="706"/><rect l="1172" t="706" r="1466" b="712"/><rect l="1286" t="712" r="1466" b="718"/><rect l="1308" t="718" r="1466" b="722"/></region>
+<text id="{6E3B61A9-E3DB-41BE-9F01-09AE44C6EA64}">
+<par leftIndent="100" rightIndent="1400" lineSpacing="966">
+<line baseline="316" l="1045" t="280" r="1323" b="324"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="370" l="1046" t="335" r="1349" b="374"><formatting lang="EnglishUnitedStates">EMEC 609.631</formatting></line></par>
+<par leftIndent="100">
+<line baseline="446" l="1052" t="406" r="1403" b="451"><formatting lang="EnglishUnitedStates">J.W.MacSwain</formatting></line></par>
+<par leftIndent="100" rightIndent="800" lineSpacing="702">
+<line baseline="580" l="1047" t="548" r="1431" b="591"><formatting lang="EnglishUnitedStates">lOmi.W.Durangc</formatting></line>
+<line baseline="620" l="1048" t="588" r="1393" b="630"><formatting lang="EnglishUnitedStates">Durango, MEX,</formatting></line>
+<line baseline="662" l="1049" t="630" r="1370" b="671"><formatting lang="EnglishUnitedStates">VI1-12-1964 ..</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="44" t="0" r="54" b="148"><region><rect l="48" t="0" r="54" b="60"/><rect l="46" t="60" r="52" b="130"/><rect l="44" t="130" r="50" b="148"/></region>
+<separator type="Black" thickness="3"><start x="49" y="0"/><end x="49" y="148"/>
+</separator>
+</block>
+<block blockType="Separator" l="180" t="0" r="190" b="230"><region><rect l="180" t="0" r="190" b="230"/></region>
+<separator type="Black" thickness="3"><start x="185" y="0"/><end x="185" y="230"/>
+</separator>
+</block>
+<block blockType="Separator" l="320" t="0" r="330" b="148"><region><rect l="322" t="0" r="330" b="112"/><rect l="320" t="112" r="326" b="148"/></region>
+<separator type="Black" thickness="3"><start x="325" y="0"/><end x="325" y="148"/>
+</separator>
+</block>
+<block blockType="Separator" l="458" t="0" r="468" b="232"><region><rect l="460" t="0" r="468" b="196"/><rect l="458" t="196" r="464" b="232"/></region>
+<separator type="Black" thickness="3"><start x="463" y="0"/><end x="463" y="232"/>
+</separator>
+</block>
+<block blockType="Separator" l="600" t="0" r="610" b="150"><region><rect l="604" t="0" r="610" b="38"/><rect l="600" t="38" r="608" b="150"/></region>
+<separator type="Black" thickness="3"><start x="605" y="0"/><end x="605" y="150"/>
+</separator>
+</block>
+<block blockType="Separator" l="740" t="0" r="750" b="234"><region><rect l="742" t="0" r="750" b="172"/><rect l="740" t="172" r="746" b="234"/></region>
+<separator type="Black" thickness="3"><start x="745" y="0"/><end x="745" y="234"/>
+</separator>
+</block>
+<block blockType="Separator" l="882" t="0" r="890" b="154"><region><rect l="882" t="0" r="890" b="154"/></region>
+<separator type="Black" thickness="4"><start x="886" y="0"/><end x="886" y="154"/>
+</separator>
+</block>
+<block blockType="Separator" l="996" t="0" r="1002" b="102"><region><rect l="996" t="0" r="1002" b="102"/></region>
+<separator type="Black" thickness="3"><start x="999" y="0"/><end x="999" y="102"/>
+</separator>
+</block>
+<block blockType="Separator" l="1026" t="0" r="1040" b="306"><region><rect l="1028" t="0" r="1038" b="86"/><rect l="1028" t="86" r="1040" b="198"/><rect l="1026" t="198" r="1038" b="306"/></region>
+<separator type="Black" thickness="5"><start x="1033" y="0"/><end x="1033" y="306"/>
+</separator>
+</block>
+</page>
+</document>

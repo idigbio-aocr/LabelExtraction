@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{6B419D6B-7394-4854-BF30-63271BEF1ED2}"/></stream><stream role="incut" beginPage="0"><elemId id="{7072973E-A822-4C3D-9850-9392A5A12664}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="510">
+<block blockType="Picture" pageElemId="{7072973E-A822-4C3D-9850-9392A5A12664}" l="0" t="2" r="722" b="1200"><region><rect l="0" t="2" r="722" b="1200"/></region>
+</block>
+<block blockType="Text" pageElemId="{6B419D6B-7394-4854-BF30-63271BEF1ED2}" l="1000" t="384" r="1464" b="948"><region><rect l="1000" t="384" r="1464" b="948"/></region>
+<text id="{6B419D6B-7394-4854-BF30-63271BEF1ED2}">
+<par align="Center" leftIndent="100" lineSpacing="904">
+<line baseline="448" l="1057" t="399" r="1376" b="458"><formatting lang="EnglishUnitedStates">U.c. Berkeley</formatting></line>
+<line baseline="505" l="1013" t="450" r="1442" b="523"><formatting lang="EnglishUnitedStates">I EMEC 609.888 &apos;</formatting></line></par>
+<par align="Justified" leftIndent="100" lineSpacing="169">
+<line baseline="644" l="1025" t="523" r="1343" b="645"><formatting lang="EnglishUnitedStates">r&apos;1 : &apos;</formatting></line></par>
+<par align="Justified" leftIndent="100" lineSpacing="169">
+<line baseline="659" l="1025" t="610" r="1454" b="668"><formatting lang="EnglishUnitedStates">Topaz Lake, 1</formatting></line></par>
+<par align="Justified" leftIndent="100">
+<line baseline="753" l="1022" t="667" r="1437" b="768"><formatting lang="EnglishUnitedStates">NEV.%&amp;67|-</formatting></line></par>
+<par align="Center" leftIndent="100" lineSpacing="734">
+<line baseline="876" l="1028" t="829" r="1382" b="896"><formatting lang="EnglishUnitedStates">;W.J»Tttrner!</formatting></line>
+<line baseline="924" l="1014" t="880" r="1388" b="945"><formatting lang="EnglishUnitedStates">r^PplAectpr (</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="70" t="76" r="80" b="252"><region><rect l="72" t="76" r="80" b="188"/><rect l="70" t="188" r="78" b="252"/></region>
+<separator type="Black" thickness="4"><start x="75" y="76"/><end x="75" y="252"/>
+</separator>
+</block>
+<block blockType="Separator" l="228" t="76" r="236" b="346"><region><rect l="228" t="76" r="236" b="346"/></region>
+<separator type="Black" thickness="3"><start x="232" y="76"/><end x="232" y="346"/>
+</separator>
+</block>
+<block blockType="Separator" l="388" t="74" r="396" b="250"><region><rect l="388" t="74" r="396" b="250"/></region>
+<separator type="Black" thickness="4"><start x="392" y="74"/><end x="392" y="250"/>
+</separator>
+</block>
+<block blockType="Separator" l="546" t="74" r="554" b="340"><region><rect l="546" t="74" r="554" b="340"/></region>
+<separator type="Black" thickness="3"><start x="550" y="74"/><end x="550" y="340"/>
+</separator>
+</block>
+<block blockType="Separator" l="708" t="74" r="716" b="252"><region><rect l="708" t="74" r="716" b="252"/></region>
+<separator type="Black" thickness="4"><start x="712" y="74"/><end x="712" y="252"/>
+</separator>
+</block>
+<block blockType="Separator" l="874" t="74" r="890" b="408"><region><rect l="874" t="74" r="890" b="280"/><rect l="880" t="280" r="890" b="294"/><rect l="878" t="294" r="888" b="408"/></region>
+<separator type="Black" thickness="7"><start x="882" y="74"/><end x="882" y="408"/>
+</separator>
+</block>
+</page>
+</document>

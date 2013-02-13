@@ -1,0 +1,71 @@
+1200
+1600
+[1] pry(main)> 
+[2] pry(main)> 
+[3] pry(main)> 
+[4] pry(main)> 
+[5] pry(main)> 
+[6] pry(main)> [7] pry(main)> [8] pry(main)> [9] pry(main)> [10] pry(main)> [11] pry(main)> [12] pry(main)> [13] pry(main)> quit
+[0G
+[1mFrom:[0m ../../code/hocr_to_image.rb @ line 56 Object#process_hocr:
+
+    [1;34m51[0m: [1;31mdef[0m [1;34mprocess_hocr[0m
+    [1;34m52[0m:   page = [1;34m[4mNokogiri[0m::HTML(open(@hocr_filename))
+    [1;34m53[0m: 
+    [1;34m54[0m:   
+    [1;34m55[0m:   word_spans = page.xpath([32m[1;32m'[0m[32m//span[@class="ocr_word"]/text()[1;32m'[0m[32m[0m)
+ => [1;34m56[0m:   binding.pry
+    [1;34m57[0m:   word_spans.each [1;31mdo[0m |e|
+    [1;34m58[0m:     pp e
+    [1;34m59[0m:   [1;31mend[0m
+    [1;34m60[0m: [1;31mend[0m
+
+
+
+
+
+
+
+
+#(Text "HUI]!")
+#(Text "Cerceris")
+#(Text "compacta")
+#(Text "   ")
+#(Text " ")
+#(Text "~'lllljl")
+#(Text "U.C.Berké1’e§")
+#(Text "’_")
+#(Text "EMEg_6()9,§")
+#(Text "1")
+#(Text "@>\xA2")
+#(Text "»_,")
+#(Text " ")
+#(Text "A")
+#(Text ".1“;")
+#(Text "9")
+#(Text "3.3..â\u0080\u0098")
+#(Text "\u0080 \u0098")
+#(Text "\u0080\u009D")
+#(Text "°·\u0098")
+#(Text "nov...~.'5â\u0080\u0098")
+#(Text "19a9?;._i;_,;;")
+#(Text "1")
+#(Text "A-ETâ\u0080\u0099-â\u0080\u0098.139-\"Â°â\u0080\u0098F.*Â¥â\u0080\u0098-Â°}.~7â\u0080\u0098:â\u0080\u0098$'")
+#(Text ".")
+#(Text "Cerceris")
+#(Text "cï¬\u0082asta,")
+#(Text "cgggacta")
+#(Text "'")
+#(Text "Det.by")
+#(Text "12")
+#(Text "pr.")
+#(Text "51Â»")
+#(Text "  ")
+#(Text ".~;")
+#(Text "9-:")
+#(Text "â\u0080\u009C")
+#(Text "â\u0080\u0098J.")
+#(Text "\\")
+#(Text "I")
+#(Text ".A.")
+#(Text "Scullen")

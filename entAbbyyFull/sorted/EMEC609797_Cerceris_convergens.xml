@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{6307BB3D-DB67-4AB2-A19A-55BE28FE207A}"/><elemId id="{F4DD22F2-ACBC-4391-90FE-C5A44ED97736}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="400">
+<block blockType="Text" pageElemId="{6307BB3D-DB67-4AB2-A19A-55BE28FE207A}" l="1040" t="183" r="1499" b="409"><region><rect l="1040" t="183" r="1499" b="409"/></region>
+<text id="{6307BB3D-DB67-4AB2-A19A-55BE28FE207A}">
+<par leftIndent="500" rightIndent="3100" lineSpacing="1026">
+<line baseline="228" l="1054" t="191" r="1333" b="235"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="284" l="1058" t="248" r="1361" b="292"><formatting lang="EnglishUnitedStates">EMCC 609.797</formatting></line></par>
+<par leftIndent="500" rightIndent="700" lineSpacing="702">
+<line baseline="360" l="1048" t="316" r="1344" b="363"><formatting lang="EnglishUnitedStates">Molino Camp</formatting></line>
+<line baseline="398" l="1048" t="364" r="1495" b="401"><formatting lang="EnglishUnitedStates">Santa Catalina Mts,</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" pageElemId="{F4DD22F2-ACBC-4391-90FE-C5A44ED97736}" l="1025" t="433" r="1457" b="838"><region><rect l="1025" t="433" r="1457" b="838"/></region>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="303" height="170">
+<text id="{4DF52285-68DC-4372-A285-47257EA62917}">
+<par align="Justified" leftIndent="800" lineSpacing="864">
+<line baseline="515" l="1073" t="473" r="1320" b="524"><formatting lang="EnglishUnitedStates">R. g. Beal</formatting></line>
+<line baseline="555" l="1075" t="525" r="1283" b="561"><formatting lang="EnglishUnitedStates">Collector</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" width="129" height="170">
+<text id="{F9626459-63B4-4961-A3B3-344475475887}">
+<par>
+<line baseline="496" l="1329" t="439" r="1441" b="511"><formatting lang="EnglishUnitedStates">g&quot;</formatting></line></par>
+<par>
+<line baseline="576" l="1329" t="511" r="1415" b="577"><formatting lang="EnglishUnitedStates">W.</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" width="303" height="57">
+<text id="{30038B7D-1615-41F8-8E36-FB040AB9D8FF}">
+<par align="Right">
+<line baseline="646" l="1068" t="615" r="1328" b="653"><formatting lang="EnglishUnitedStates">Cerceris d</formatting></line></par>
+</text></cell>
+<cell rowSpan="2" leftBorder="White" bottomBorder="White" width="129" height="235">
+<text id="{CA155BAB-C1DB-446B-8E40-F7D084B91963}">
+<par lineSpacing="-1"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" width="303" height="178">
+<text id="{A9C58739-EF67-4C50-A059-2AB5F77DC3AC}">
+<par align="Right">
+<line baseline="690" l="1094" t="668" r="1328" b="699"><formatting lang="EnglishUnitedStates">convergens</formatting></line></par>
+<par align="Right">
+<line baseline="748" l="1071" t="714" r="1303" b="752"><formatting lang="EnglishUnitedStates">Det. by* v</formatting></line></par>
+<par align="Right">
+<line baseline="788" l="1096" t="758" r="1328" b="796"><formatting lang="EnglishUnitedStates">H.A.Senile</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="SeparatorsBox" l="1025" t="577" r="1455" b="837"><region><rect l="1426" t="577" r="1438" b="596"/><rect l="1025" t="596" r="1438" b="614"/><rect l="1049" t="614" r="1438" b="790"/><rect l="1049" t="790" r="1455" b="811"/><rect l="1049" t="811" r="1438" b="820"/><rect l="1049" t="820" r="1062" b="837"/></region>
+<separatorsBox>
+<separator type="Black" thickness="5"><start x="1025" y="605"/><end x="1380" y="605"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1072" y="800"/><end x="1455" y="800"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1055" y="596"/><end x="1055" y="837"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1432" y="577"/><end x="1432" y="820"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" l="1066" t="654" r="1260" b="666"><region><rect l="1221" t="654" r="1260" b="655"/><rect l="1204" t="655" r="1260" b="656"/><rect l="1178" t="656" r="1260" b="657"/><rect l="1162" t="657" r="1260" b="658"/><rect l="1143" t="658" r="1260" b="659"/><rect l="1115" t="659" r="1260" b="660"/><rect l="1066" t="660" r="1221" b="661"/><rect l="1066" t="661" r="1204" b="662"/><rect l="1066" t="662" r="1178" b="663"/><rect l="1066" t="663" r="1162" b="664"/><rect l="1066" t="664" r="1143" b="665"/><rect l="1066" t="665" r="1115" b="666"/></region>
+<separator type="Black" thickness="6"><start x="1066" y="660"/><end x="1260" y="660"/>
+</separator>
+</block>
+<block blockType="Separator" l="1091" t="700" r="1335" b="714"><region><rect l="1297" t="700" r="1335" b="701"/><rect l="1243" t="701" r="1335" b="703"/><rect l="1228" t="703" r="1335" b="704"/><rect l="1206" t="704" r="1335" b="705"/><rect l="1187" t="705" r="1297" b="706"/><rect l="1173" t="706" r="1297" b="707"/><rect l="1137" t="707" r="1297" b="708"/><rect l="1126" t="708" r="1243" b="709"/><rect l="1091" t="709" r="1228" b="710"/><rect l="1091" t="710" r="1206" b="711"/><rect l="1091" t="711" r="1187" b="712"/><rect l="1091" t="712" r="1173" b="713"/><rect l="1091" t="713" r="1137" b="714"/></region>
+<separator type="Black" thickness="6"><start x="1091" y="707"/><end x="1335" y="707"/>
+</separator>
+</block>
+<block blockType="Separator" l="1097" t="832" r="1235" b="838"><region><rect l="1097" t="832" r="1235" b="838"/></region>
+<separator type="Dotted" thickness="3"><start x="1097" y="835"/><end x="1235" y="835"/>
+</separator>
+</block>
+<block blockType="Separator" l="1105" t="842" r="1224" b="849"><region><rect l="1105" t="842" r="1224" b="849"/></region>
+<separator type="Dotted" thickness="3"><start x="1105" y="845"/><end x="1224" y="845"/>
+</separator>
+</block>
+</page>
+</document>

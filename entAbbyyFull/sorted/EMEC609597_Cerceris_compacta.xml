@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{A66B5796-CFC2-430B-B4D5-3B9AC95E45CF}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="300">
+<block blockType="Text" l="468" t="236" r="774" b="268"><region><rect l="468" t="236" r="774" b="268"/></region>
+</block>
+<block blockType="Text" l="622" t="280" r="784" b="354"><region><rect l="622" t="280" r="784" b="354"/></region>
+</block>
+<block blockType="Text" pageElemId="{A66B5796-CFC2-430B-B4D5-3B9AC95E45CF}" l="1012" t="253" r="1362" b="604"><region><rect l="1012" t="253" r="1344" b="495"/><rect l="1012" t="495" r="1361" b="515"/><rect l="1012" t="515" r="1362" b="526"/><rect l="1012" t="526" r="1272" b="604"/></region>
+<text id="{A66B5796-CFC2-430B-B4D5-3B9AC95E45CF}">
+<par leftIndent="100" rightIndent="700" lineSpacing="1344">
+<line baseline="327" l="1022" t="286" r="1300" b="339"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="383" l="1022" t="342" r="1326" b="384"><formatting lang="EnglishUnitedStates">EMEC 609.597</formatting></line></par>
+<par leftIndent="100" lineSpacing="864">
+<line baseline="452" l="1019" t="400" r="1287" b="452"><formatting lang="EnglishUnitedStates">MEXICO-&apos;Colima \</formatting></line></par>
+<par leftIndent="100" lineSpacing="864">
+<line baseline="488" l="1020" t="465" r="1297" b="494"><formatting lang="EnglishUnitedStates">PIaya de Oro Rd.</formatting></line></par>
+<par leftIndent="100" rightIndent="700" lineSpacing="864">
+<line baseline="525" l="1021" t="500" r="1356" b="530"><formatting lang="EnglishUnitedStates">21 mi .Nt^ Manzani 1 lo</formatting></line>
+<line baseline="560" l="1018" t="531" r="1248" b="570"><formatting lang="EnglishUnitedStates">VI11-JV1970</formatting></line>
+<line baseline="596" l="1018" t="573" r="1266" b="598"><formatting lang="EnglishUnitedStates">MS5JS Wasbauer</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="1167" t="397" r="1299" b="403"><region><rect l="1167" t="397" r="1226" b="398"/><rect l="1167" t="398" r="1264" b="399"/><rect l="1167" t="399" r="1267" b="400"/><rect l="1167" t="400" r="1299" b="401"/><rect l="1226" t="401" r="1264" b="403"/></region>
+<separator type="Black" thickness="3"><start x="1167" y="400"/><end x="1299" y="400"/>
+</separator>
+</block>
+<block blockType="Separator" l="17" t="0" r="24" b="134"><region><rect l="19" t="0" r="24" b="46"/><rect l="18" t="46" r="23" b="83"/><rect l="17" t="83" r="23" b="88"/><rect l="17" t="88" r="22" b="134"/></region>
+<separator type="Black" thickness="5"><start x="20" y="0"/><end x="20" y="134"/>
+</separator>
+</block>
+<block blockType="Separator" l="151" t="0" r="161" b="216"><region><rect l="155" t="0" r="161" b="65"/><rect l="154" t="65" r="159" b="102"/><rect l="152" t="102" r="158" b="185"/><rect l="151" t="185" r="156" b="216"/></region>
+<separator type="Black" thickness="5"><start x="156" y="0"/><end x="156" y="216"/>
+</separator>
+</block>
+<block blockType="Separator" l="291" t="0" r="299" b="134"><region><rect l="293" t="0" r="299" b="79"/><rect l="292" t="79" r="297" b="119"/><rect l="291" t="119" r="297" b="134"/></region>
+<separator type="Black" thickness="5"><start x="295" y="0"/><end x="295" y="134"/>
+</separator>
+</block>
+<block blockType="Separator" l="429" t="0" r="438" b="216"><region><rect l="432" t="0" r="438" b="92"/><rect l="431" t="92" r="436" b="154"/><rect l="430" t="154" r="435" b="205"/><rect l="429" t="205" r="434" b="216"/></region>
+<separator type="Black" thickness="5"><start x="433" y="0"/><end x="433" y="216"/>
+</separator>
+</block>
+<block blockType="Separator" l="571" t="0" r="578" b="135"><region><rect l="571" t="0" r="578" b="135"/></region>
+<separator type="Black" thickness="5"><start x="574" y="0"/><end x="574" y="135"/>
+</separator>
+</block>
+<block blockType="Separator" l="711" t="0" r="718" b="218"><region><rect l="712" t="0" r="718" b="135"/><rect l="711" t="135" r="717" b="218"/></region>
+<separator type="Black" thickness="5"><start x="714" y="0"/><end x="714" y="218"/>
+</separator>
+</block>
+<block blockType="Separator" l="853" t="0" r="859" b="138"><region><rect l="853" t="0" r="859" b="138"/></region>
+<separator type="Black" thickness="6"><start x="856" y="0"/><end x="856" y="138"/>
+</separator>
+</block>
+<block blockType="Separator" l="882" t="0" r="887" b="83"><region><rect l="882" t="0" r="887" b="83"/></region>
+<separator type="Black" thickness="5"><start x="884" y="0"/><end x="884" y="83"/>
+</separator>
+</block>
+<block blockType="Separator" l="996" t="0" r="1009" b="297"><region><rect l="997" t="0" r="1009" b="199"/><rect l="996" t="199" r="1007" b="242"/><rect l="1000" t="242" r="1007" b="247"/><rect l="997" t="247" r="1007" b="297"/></region>
+<separator type="Black" thickness="10"><start x="1002" y="0"/><end x="1002" y="297"/>
+</separator>
+</block>
+<block blockType="Separator" l="1271" t="420" r="1387" b="432"><region><rect l="1271" t="420" r="1387" b="432"/></region>
+<separator type="Dotted" thickness="3"><start x="1271" y="426"/><end x="1387" y="426"/>
+</separator>
+</block>
+<block blockType="Separator" l="1107" t="921" r="1253" b="927"><region><rect l="1107" t="921" r="1253" b="927"/></region>
+<separator type="Dotted" thickness="3"><start x="1107" y="924"/><end x="1253" y="924"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{4343856C-BD3B-43F5-AF25-894B82EA6128}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="410">
+<block blockType="Text" pageElemId="{4343856C-BD3B-43F5-AF25-894B82EA6128}" l="1114" t="200" r="1528" b="822"><region><rect l="1114" t="200" r="1528" b="822"/></region>
+<text id="{4343856C-BD3B-43F5-AF25-894B82EA6128}">
+<par leftIndent="100" rightIndent="600" lineSpacing="948">
+<line baseline="244" l="1132" t="208" r="1410" b="253"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="298" l="1134" t="264" r="1462" b="306"><formatting lang="EnglishUnitedStates">EMEC 609.740 .</formatting></line></par>
+<par leftIndent="100">
+<line baseline="378" l="1131" t="344" r="1257" b="378"><formatting lang="EnglishUnitedStates">Box C</formatting></line></par>
+<par leftIndent="100">
+<line baseline="413" l="1132" t="372" r="1508" b="418"><formatting lang="EnglishUnitedStates">Rivefside Go. I •</formatting></line></par>
+<par leftIndent="1000">
+<line baseline="612" l="1185" t="453" r="1505" b="623"><formatting lang="EnglishUnitedStates">SB</formatting></line></par>
+<par leftIndent="100">
+<line baseline="656" l="1149" t="623" r="1522" b="662"><formatting lang="EnglishUnitedStates">Carcerl i &lt;$*</formatting></line></par>
+<par align="Right" leftIndent="100" rightIndent="600" lineSpacing="1106">
+<line baseline="748" l="1229" t="708" r="1509" b="751"><formatting lang="EnglishUnitedStates">l/f&apos;e r^esA 1</formatting></line>
+<line baseline="811" l="1149" t="776" r="1504" b="814"><formatting lang="EnglishUnitedStates">T.Crleweld det</formatting></line></par>
+</text>
+</block>
+</page>
+</document>

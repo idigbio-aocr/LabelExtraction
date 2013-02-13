@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{523AB598-0D3F-4EFF-868E-2433E88B48F3}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="410">
+<block blockType="Text" pageElemId="{523AB598-0D3F-4EFF-868E-2433E88B48F3}" l="1052" t="306" r="1474" b="772"><region><rect l="1052" t="306" r="1474" b="772"/></region>
+<text id="{523AB598-0D3F-4EFF-868E-2433E88B48F3}">
+<par leftIndent="100" rightIndent="700" lineSpacing="983">
+<line baseline="370" l="1061" t="334" r="1339" b="379"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="425" l="1061" t="391" r="1455" b="428"><formatting lang="EnglishUnitedStates">EMEC 609.617 &gt;&gt;</formatting></line></par>
+<par align="Right" rightIndent="700">
+<line baseline="471" l="1395" t="444" r="1471" b="476"><formatting lang="EnglishUnitedStates">K-: i .</formatting></line></par>
+<par align="Justified" leftIndent="100" lineSpacing="790">
+<line baseline="522" l="1063" t="475" r="1418" b="529"><formatting lang="EnglishUnitedStates">ElTigre, v‘</formatting></line></par>
+<par leftIndent="100" rightIndent="1900" lineSpacing="790">
+<line baseline="568" l="1065" t="531" r="1393" b="573"><formatting lang="EnglishUnitedStates">Jalisco,MEX.,’</formatting></line>
+<line baseline="611" l="1066" t="578" r="1395" b="625"><formatting lang="EnglishUnitedStates">VII-18-54 v</formatting></line></par>
+<par align="Justified" leftIndent="1100" lineSpacing="790">
+<line baseline="663" l="1121" t="629" r="1459" b="661"><formatting lang="EnglishUnitedStates"> rr^rzr: &apos;</formatting></line></par>
+<par leftIndent="100" rightIndent="1500" lineSpacing="790">
+<line baseline="704" l="1065" t="670" r="1423" b="708"><formatting lang="EnglishUnitedStates">E. I. Schlinger.</formatting></line>
+<line baseline="748" l="1065" t="713" r="1270" b="751"><formatting lang="EnglishUnitedStates">ColiecCor</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="1080" t="440" r="1322" b="452"><region><rect l="1080" t="440" r="1154" b="442"/><rect l="1080" t="442" r="1322" b="444"/><rect l="1154" t="444" r="1322" b="446"/><rect l="1156" t="446" r="1322" b="452"/></region>
+<separator type="Black" thickness="3"><start x="1080" y="446"/><end x="1322" y="446"/>
+</separator>
+</block>
+</page>
+</document>

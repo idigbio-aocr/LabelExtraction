@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{F2D4D77D-99DA-40A9-84C9-633E013A6874}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="330">
+<block blockType="Text" pageElemId="{F2D4D77D-99DA-40A9-84C9-633E013A6874}" l="1041" t="381" r="1550" b="715"><region><rect l="1041" t="381" r="1550" b="715"/></region>
+<text id="{F2D4D77D-99DA-40A9-84C9-633E013A6874}">
+<par leftIndent="100" rightIndent="3900" lineSpacing="1265">
+<line baseline="440" l="1062" t="401" r="1345" b="451"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="498" l="1062" t="459" r="1372" b="506"><formatting lang="EnglishUnitedStates">EMEC 609,917</formatting></line></par>
+<par leftIndent="100" rightIndent="200" lineSpacing="873">
+<line baseline="582" l="1050" t="550" r="1544" b="591"><formatting lang="EnglishUnitedStates">CALIF:San Luis Obispo Co.</formatting></line>
+<line baseline="621" l="1048" t="590" r="1509" b="631"><formatting lang="EnglishUnitedStates">Dune Lakes,3mi S Ocepno</formatting></line>
+<line baseline="663" l="1047" t="631" r="1488" b="667"><formatting lang="EnglishUnitedStates">VII-11-73 R.Covilie on</formatting></line>
+<line baseline="704" l="1048" t="674" r="1468" b="709"><formatting lang="EnglishUnitedStates">Eriogonum parvifolium</formatting></line></par>
+</text>
+</block>
+</page>
+</document>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{3FAE47FF-639A-4B7B-9054-1E857F37DC27}"/><elemId id="{DB31B9E1-B84D-4027-A541-B73A995F72F5}"/></stream><stream role="incut" beginPage="0"><elemId id="{C4D47CA6-8B16-4617-BF69-6456CA20C6B3}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="530">
+<block blockType="Picture" pageElemId="{C4D47CA6-8B16-4617-BF69-6456CA20C6B3}" l="34" t="2" r="784" b="542"><region><rect l="34" t="2" r="784" b="542"/></region>
+</block>
+<block blockType="Text" l="366" t="746" r="686" b="894"><region><rect l="366" t="746" r="686" b="894"/></region>
+</block>
+<block blockType="Text" pageElemId="{3FAE47FF-639A-4B7B-9054-1E857F37DC27}" l="988" t="144" r="1396" b="464"><region><rect l="988" t="144" r="1396" b="464"/></region>
+<text id="{3FAE47FF-639A-4B7B-9054-1E857F37DC27}">
+<par leftIndent="800" rightIndent="1200" lineSpacing="883">
+<line baseline="210" l="1035" t="155" r="1354" b="224"><formatting lang="EnglishUnitedStates">U.c. Berkeley</formatting></line>
+<line baseline="273" l="1032" t="219" r="1380" b="278"><formatting lang="EnglishUnitedStates">EMEC 609,875</formatting></line></par>
+<par leftIndent="800" rightIndent="1200" lineSpacing="611">
+<line baseline="411" l="1015" t="364" r="1339" b="417"><formatting lang="EnglishUnitedStates">Washoe Go.,</formatting></line>
+<line baseline="457" l="1014" t="416" r="1377" b="460"><formatting lang="EnglishUnitedStates">Nev. VII-?-61</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" l="972" t="480" r="1388" b="596"><region><rect l="972" t="480" r="1388" b="596"/></region>
+</block>
+<block blockType="Picture" pageElemId="{DB31B9E1-B84D-4027-A541-B73A995F72F5}" l="968" t="596" r="1468" b="1048"><region><rect l="968" t="596" r="1468" b="1048"/></region>
+</block>
+<block blockType="Text" l="1060" t="600" r="1204" b="700"><region><rect l="1060" t="600" r="1204" b="700"/></region>
+</block>
+<block blockType="Text" pageElemId="{E00657C7-ED1F-43AB-8AD4-106985A6FA66}" l="1140" t="652" r="1376" b="724"><region><rect l="1140" t="652" r="1376" b="724"/></region>
+<text id="{E00657C7-ED1F-43AB-8AD4-106985A6FA66}">
+<par>
+<line baseline="711" l="1140" t="652" r="1376" b="718"><formatting lang="EnglishUnitedStates">%mi8on</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{F260BE32-3705-4140-8ED0-CE02C4D6011A}" l="1040" t="804" r="1200" b="844"><region><rect l="1040" t="804" r="1200" b="844"/></region>
+<text id="{F260BE32-3705-4140-8ED0-CE02C4D6011A}">
+<par>
+<line baseline="843" l="1040" t="804" r="1200" b="843"><formatting lang="EnglishUnitedStates">conver</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="508" t="774" r="688" b="786"><region><rect l="626" t="774" r="688" b="776"/><rect l="598" t="776" r="688" b="778"/><rect l="542" t="778" r="688" b="780"/><rect l="508" t="780" r="688" b="782"/><rect l="508" t="782" r="626" b="784"/><rect l="508" t="784" r="598" b="786"/></region>
+<separator type="Black" thickness="4"><start x="508" y="780"/><end x="688" y="780"/>
+</separator>
+</block>
+<block blockType="Separator" l="38" t="196" r="44" b="372"><region><rect l="38" t="196" r="44" b="372"/></region>
+<separator type="Black" thickness="3"><start x="41" y="196"/><end x="41" y="372"/>
+</separator>
+</block>
+<block blockType="Separator" l="196" t="192" r="204" b="464"><region><rect l="196" t="192" r="204" b="464"/></region>
+<separator type="Black" thickness="4"><start x="200" y="192"/><end x="200" y="464"/>
+</separator>
+</block>
+<block blockType="Separator" l="356" t="188" r="362" b="368"><region><rect l="356" t="188" r="362" b="368"/></region>
+<separator type="Black" thickness="3"><start x="359" y="188"/><end x="359" y="368"/>
+</separator>
+</block>
+<block blockType="Separator" l="514" t="184" r="522" b="458"><region><rect l="514" t="184" r="522" b="458"/></region>
+<separator type="Black" thickness="4"><start x="518" y="184"/><end x="518" y="458"/>
+</separator>
+</block>
+<block blockType="Separator" l="674" t="182" r="684" b="362"><region><rect l="674" t="182" r="682" b="300"/><rect l="676" t="300" r="684" b="362"/></region>
+<separator type="Black" thickness="4"><start x="679" y="182"/><end x="679" y="362"/>
+</separator>
+</block>
+</page>
+</document>

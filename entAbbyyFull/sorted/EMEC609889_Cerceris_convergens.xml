@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{145E535D-B228-413E-9E3E-A7CA2035CEB2}"/><elemId id="{0B173E26-1D71-4456-ADC2-AF758920456F}"/><elemId id="{07D23461-0AED-4A78-A8C8-73FDC45E7108}"/></stream><stream role="incut" beginPage="0"><elemId id="{C91C8845-B317-4E55-A642-40B72A62B0A9}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="470">
+<block blockType="Picture" pageElemId="{C91C8845-B317-4E55-A642-40B72A62B0A9}" l="0" t="2" r="830" b="1200"><region><rect l="0" t="2" r="830" b="1200"/></region>
+</block>
+<block blockType="Text" l="126" t="1174" r="202" b="1200"><region><rect l="126" t="1174" r="202" b="1200"/></region>
+</block>
+<block blockType="Text" pageElemId="{145E535D-B228-413E-9E3E-A7CA2035CEB2}" l="950" t="380" r="1348" b="504"><region><rect l="950" t="380" r="1348" b="504"/></region>
+<text id="{145E535D-B228-413E-9E3E-A7CA2035CEB2}">
+<par align="Justified" leftIndent="100" rightIndent="100" lineSpacing="965">
+<line baseline="430" l="973" t="388" r="1348" b="446"><formatting lang="EnglishUnitedStates">U.C. Berkeley j</formatting></line>
+<line baseline="494" l="974" t="451" r="1348" b="498"><formatting lang="EnglishUnitedStates">EMEC 609.889 ;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{0B173E26-1D71-4456-ADC2-AF758920456F}" l="926" t="528" r="1332" b="728"><region><rect l="926" t="528" r="1332" b="704"/><rect l="1092" t="704" r="1330" b="728"/></region>
+<text id="{0B173E26-1D71-4456-ADC2-AF758920456F}">
+<par leftIndent="600">
+<line baseline="583" l="1001" t="541" r="1316" b="592"><formatting lang="EnglishUnitedStates">Topaz Lake,</formatting></line></par>
+</text>
+</block>
+<block blockType="Picture" pageElemId="{07D23461-0AED-4A78-A8C8-73FDC45E7108}" l="962" t="704" r="1178" b="894"><region><rect l="992" t="704" r="1092" b="720"/><rect l="962" t="720" r="1092" b="744"/><rect l="962" t="744" r="1088" b="820"/><rect l="962" t="820" r="1146" b="822"/><rect l="962" t="822" r="1178" b="894"/></region>
+</block>
+<block blockType="Text" pageElemId="{ADC85E69-DF14-4944-AF76-43636E5510E5}" l="1088" t="710" r="1366" b="820"><region><rect l="1106" t="710" r="1366" b="744"/><rect l="1088" t="744" r="1366" b="820"/></region>
+<text id="{ADC85E69-DF14-4944-AF76-43636E5510E5}">
+<par>
+<line baseline="805" l="1088" t="754" r="1332" b="816"><formatting lang="EnglishUnitedStates">ieetor... f</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="16" t="126" r="24" b="302"><region><rect l="16" t="126" r="24" b="302"/></region>
+<separator type="Black" thickness="3"><start x="20" y="126"/><end x="20" y="302"/>
+</separator>
+</block>
+<block blockType="Separator" l="172" t="126" r="180" b="396"><region><rect l="172" t="126" r="180" b="396"/></region>
+<separator type="Black" thickness="3"><start x="176" y="126"/><end x="176" y="396"/>
+</separator>
+</block>
+<block blockType="Separator" l="332" t="124" r="340" b="302"><region><rect l="332" t="124" r="340" b="302"/></region>
+<separator type="Black" thickness="4"><start x="336" y="124"/><end x="336" y="302"/>
+</separator>
+</block>
+<block blockType="Separator" l="490" t="124" r="498" b="396"><region><rect l="490" t="124" r="498" b="396"/></region>
+<separator type="Black" thickness="4"><start x="494" y="124"/><end x="494" y="396"/>
+</separator>
+</block>
+<block blockType="Separator" l="652" t="124" r="660" b="302"><region><rect l="652" t="124" r="660" b="302"/></region>
+<separator type="Black" thickness="4"><start x="656" y="124"/><end x="656" y="302"/>
+</separator>
+</block>
+<block blockType="Separator" l="816" t="128" r="834" b="394"><region><rect l="816" t="128" r="834" b="394"/></region>
+<separator type="Black" thickness="9"><start x="825" y="128"/><end x="825" y="394"/>
+</separator>
+</block>
+</page>
+</document>

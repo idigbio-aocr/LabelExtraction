@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{4FB5F338-5188-438F-AFAD-5EFC4CB65F00}"/><elemId id="{9B50CA5F-5CB1-4DC0-A411-6BC868084F39}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="360">
+<block blockType="Text" pageElemId="{4FB5F338-5188-438F-AFAD-5EFC4CB65F00}" l="1108" t="284" r="1577" b="585"><region><rect l="1108" t="284" r="1577" b="585"/></region>
+<text id="{4FB5F338-5188-438F-AFAD-5EFC4CB65F00}">
+<par leftIndent="100" rightIndent="400" lineSpacing="960">
+<line baseline="345" l="1109" t="308" r="1391" b="346"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="401" l="1112" t="366" r="1417" b="404"><formatting lang="EnglishUnitedStates">EMEC 609.913</formatting></line>
+<line baseline="450" l="1141" t="422" r="1528" b="454"><formatting lang="EnglishUnitedStates">CALIF: Dune Lakes,</formatting></line>
+<line baseline="490" l="1143" t="463" r="1441" b="496"><formatting lang="EnglishUnitedStates">3 mi S.OceAno,</formatting></line></par>
+<par align="Justified" leftIndent="700" rightIndent="400" lineSpacing="820">
+<line baseline="529" l="1142" t="501" r="1532" b="532"><formatting lang="EnglishUnitedStates">S.L.O.Co.111-20-74</formatting></line>
+<line baseline="571" l="1141" t="543" r="1491" b="578"><formatting lang="EnglishUnitedStates">Doyen and Powell</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{D669087E-D73E-469D-9290-984BE53B9302}" l="1211" t="598" r="1274" b="638"><region><rect l="1211" t="598" r="1274" b="638"/></region>
+<text id="{D669087E-D73E-469D-9290-984BE53B9302}">
+<par>
+<line baseline="630" l="1223" t="605" r="1254" b="631"><formatting lang="EnglishUnitedStates">57</formatting></line></par>
+</text>
+</block>
+<block blockType="Picture" pageElemId="{9B50CA5F-5CB1-4DC0-A411-6BC868084F39}" l="1163" t="631" r="1442" b="846"><region><rect l="1163" t="631" r="1442" b="846"/></region>
+</block>
+<block blockType="Text" l="1279" t="836" r="1368" b="911"><region><rect l="1279" t="836" r="1368" b="911"/></region>
+</block>
+<block blockType="Separator" l="1163" t="414" r="1454" b="420"><region><rect l="1389" t="414" r="1454" b="415"/><rect l="1328" t="415" r="1454" b="416"/><rect l="1204" t="416" r="1454" b="417"/><rect l="1163" t="417" r="1454" b="418"/><rect l="1163" t="418" r="1328" b="419"/><rect l="1204" t="419" r="1328" b="420"/></region>
+<separator type="Black" thickness="3"><start x="1163" y="417"/><end x="1454" y="417"/>
+</separator>
+</block>
+</page>
+</document>

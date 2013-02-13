@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{F6C2ABDF-7BE5-4B79-B7C5-66CE9164BC22}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="440">
+<block blockType="Text" pageElemId="{F6C2ABDF-7BE5-4B79-B7C5-66CE9164BC22}" l="1126" t="136" r="1510" b="660"><region><rect l="1126" t="136" r="1510" b="660"/></region>
+<text id="{F6C2ABDF-7BE5-4B79-B7C5-66CE9164BC22}">
+<par leftIndent="300" rightIndent="600" lineSpacing="900">
+<line baseline="184" l="1148" t="146" r="1425" b="190"><formatting lang="EnglishUnitedStates">U.c. Berkeley</formatting></line>
+<line baseline="237" l="1152" t="194" r="1500" b="246"><formatting lang="EnglishUnitedStates">EMEC 609,741 &apos;</formatting></line></par>
+<par leftIndent="300" rightIndent="1200" lineSpacing="638">
+<line baseline="332" l="1172" t="290" r="1464" b="334"><formatting lang="EnglishUnitedStates">MagneaiaGn,</formatting></line>
+<line baseline="370" l="1172" t="331" r="1462" b="373"><formatting lang="EnglishUnitedStates">Riverside Co</formatting></line></par>
+<par leftIndent="700">
+<line baseline="494" l="1191" t="455" r="1415" b="513"><formatting lang="EnglishUnitedStates">J.Lieajey</formatting></line></par>
+<par leftIndent="300">
+<line baseline="614" l="1177" t="487" r="1405" b="595"><formatting lang="EnglishUnitedStates">mr-</formatting></line></par>
+</text>
+</block>
+</page>
+</document>

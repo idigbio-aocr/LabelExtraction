@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{F1930EA2-4133-45DA-A05F-FD287723F06E}"/><elemId id="{FE84C8D6-9271-46F8-9D98-B8E14BCFA9FD}"/><elemId id="{8F56C6BF-56D1-4081-9708-1DED0707FFF5}"/><elemId id="{FBD7F551-62A4-4F93-867F-E98E0A6B50C6}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="420">
+<block blockType="Text" l="590" t="524" r="790" b="632"><region><rect l="590" t="524" r="790" b="632"/></region>
+</block>
+<block blockType="Text" pageElemId="{F1930EA2-4133-45DA-A05F-FD287723F06E}" l="1042" t="172" r="1382" b="302"><region><rect l="1042" t="172" r="1382" b="302"/></region>
+<text id="{F1930EA2-4133-45DA-A05F-FD287723F06E}">
+<par align="Justified" leftIndent="800" rightIndent="1200" lineSpacing="960">
+<line baseline="236" l="1064" t="196" r="1339" b="246"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="291" l="1061" t="253" r="1366" b="294"><formatting lang="EnglishUnitedStates">EMEC 609.574</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" l="1172" t="292" r="1328" b="350"><region><rect l="1202" t="292" r="1328" b="306"/><rect l="1172" t="306" r="1328" b="322"/><rect l="1172" t="322" r="1290" b="350"/></region>
+</block>
+<block blockType="Text" pageElemId="{FE84C8D6-9271-46F8-9D98-B8E14BCFA9FD}" l="1010" t="330" r="1392" b="756"><region><rect l="1010" t="330" r="1392" b="756"/></region>
+<text id="{FE84C8D6-9271-46F8-9D98-B8E14BCFA9FD}">
+<par leftIndent="100">
+<line baseline="592" l="1022" t="442" r="1330" b="610"><formatting lang="EnglishUnitedStates">m</formatting></line></par>
+<par leftIndent="100">
+<line baseline="684" l="1031" t="635" r="1248" b="684"><formatting lang="EnglishUnitedStates">Ascleupfas</formatting></line></par>
+<par leftIndent="100">
+<line baseline="734" l="1029" t="678" r="1353" b="734"><formatting lang="EnglishUnitedStates">subverticfHata</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{8F56C6BF-56D1-4081-9708-1DED0707FFF5}" l="1066" t="774" r="1276" b="816"><region><rect l="1066" t="774" r="1276" b="816"/></region>
+<text id="{8F56C6BF-56D1-4081-9708-1DED0707FFF5}">
+<par align="Justified" leftIndent="800">
+<line baseline="812" l="1071" t="779" r="1260" b="812"><formatting lang="EnglishUnitedStates">Cerceris</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{FBD7F551-62A4-4F93-867F-E98E0A6B50C6}" l="1066" t="826" r="1376" b="964"><region><rect l="1066" t="826" r="1376" b="880"/><rect l="1066" t="880" r="1374" b="964"/></region>
+<text id="{FBD7F551-62A4-4F93-867F-E98E0A6B50C6}">
+<par leftIndent="800" rightIndent="800" startIndent="500" lineSpacing="823">
+<line baseline="860" l="1096" t="829" r="1376" b="868"><formatting lang="EnglishUnitedStates">compact a Or.</formatting></line>
+<line baseline="911" l="1070" t="874" r="1354" b="920"><formatting lang="EnglishUnitedStates">Det. by U*</formatting></line>
+<line baseline="959" l="1095" t="925" r="1358" b="959"><formatting lang="EnglishUnitedStates">H.A.Scullen</formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" l="1030" t="748" r="1404" b="992"><region><rect l="1054" t="748" r="1384" b="768"/><rect l="1034" t="768" r="1404" b="776"/><rect l="1054" t="776" r="1384" b="966"/><rect l="1030" t="966" r="1394" b="972"/><rect l="1054" t="972" r="1384" b="990"/><rect l="1054" t="990" r="1062" b="992"/></region>
+<separatorsBox>
+<separator type="Black" thickness="3"><start x="1034" y="772"/><end x="1404" y="772"/>
+</separator>
+<separator type="Black" thickness="3"><start x="1030" y="969"/><end x="1394" y="969"/>
+</separator>
+<separator type="Black" thickness="3"><start x="1058" y="748"/><end x="1058" y="992"/>
+</separator>
+<separator type="Black" thickness="3"><start x="1379" y="748"/><end x="1379" y="990"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" l="1068" t="820" r="1264" b="828"><region><rect l="1068" t="820" r="1264" b="828"/></region>
+<separator type="Black" thickness="3"><start x="1068" y="824"/><end x="1264" y="824"/>
+</separator>
+</block>
+<block blockType="Separator" l="1092" t="870" r="1288" b="876"><region><rect l="1092" t="870" r="1288" b="876"/></region>
+<separator type="Black" thickness="3"><start x="1092" y="873"/><end x="1288" y="873"/>
+</separator>
+</block>
+<block blockType="Separator" l="24" t="0" r="32" b="152"><region><rect l="26" t="0" r="32" b="86"/><rect l="24" t="86" r="30" b="152"/></region>
+<separator type="Black" thickness="3"><start x="28" y="0"/><end x="28" y="152"/>
+</separator>
+</block>
+<block blockType="Separator" l="158" t="0" r="168" b="234"><region><rect l="160" t="0" r="168" b="182"/><rect l="158" t="182" r="164" b="234"/></region>
+<separator type="Black" thickness="3"><start x="163" y="0"/><end x="163" y="234"/>
+</separator>
+</block>
+<block blockType="Separator" l="298" t="0" r="306" b="150"><region><rect l="298" t="0" r="306" b="150"/></region>
+<separator type="Black" thickness="3"><start x="302" y="0"/><end x="302" y="150"/>
+</separator>
+</block>
+<block blockType="Separator" l="436" t="0" r="444" b="232"><region><rect l="436" t="0" r="444" b="232"/></region>
+<separator type="Black" thickness="3"><start x="440" y="0"/><end x="440" y="232"/>
+</separator>
+</block>
+<block blockType="Separator" l="578" t="0" r="586" b="150"><region><rect l="580" t="0" r="586" b="38"/><rect l="578" t="38" r="584" b="150"/></region>
+<separator type="Black" thickness="3"><start x="582" y="0"/><end x="582" y="150"/>
+</separator>
+</block>
+<block blockType="Separator" l="718" t="0" r="724" b="232"><region><rect l="718" t="0" r="724" b="232"/></region>
+<separator type="Black" thickness="3"><start x="721" y="0"/><end x="721" y="232"/>
+</separator>
+</block>
+<block blockType="Separator" l="858" t="0" r="866" b="150"><region><rect l="858" t="0" r="866" b="150"/></region>
+<separator type="Black" thickness="4"><start x="862" y="0"/><end x="862" y="150"/>
+</separator>
+</block>
+<block blockType="Separator" l="1002" t="0" r="1016" b="304"><region><rect l="1004" t="0" r="1016" b="210"/><rect l="1002" t="210" r="1014" b="304"/></region>
+<separator type="Black" thickness="5"><start x="1009" y="0"/><end x="1009" y="304"/>
+</separator>
+</block>
+</page>
+</document>

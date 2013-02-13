@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{5BF876C0-E95F-42C2-BCC7-FCCD189BCEE1}"/><elemId id="{14B229A8-CFFB-4833-9ED4-8C69FA8CBF54}"/></stream><stream role="incut" beginPage="0"><elemId id="{4A712E75-4E2C-45B6-82F9-01603749268A}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="410">
+<block blockType="Picture" pageElemId="{4A712E75-4E2C-45B6-82F9-01603749268A}" l="630" t="508" r="866" b="644"><region><rect l="630" t="508" r="866" b="644"/></region>
+</block>
+<block blockType="Picture" pageElemId="{5BF876C0-E95F-42C2-BCC7-FCCD189BCEE1}" l="876" t="0" r="1486" b="438"><region><rect l="876" t="0" r="1486" b="438"/></region>
+</block>
+<block blockType="Text" pageElemId="{398B4877-65BE-473A-89B5-259CBC8E0D8E}" l="976" t="280" r="1326" b="396"><region><rect l="976" t="280" r="1326" b="396"/></region>
+<text id="{398B4877-65BE-473A-89B5-259CBC8E0D8E}">
+<par leftIndent="600" startIndent="-600" lineSpacing="983">
+<line baseline="329" l="976" t="280" r="1291" b="337"><formatting lang="EnglishUnitedStates">I U.C. Berkeley</formatting></line>
+<line baseline="385" l="1012" t="349" r="1319" b="388"><formatting lang="EnglishUnitedStates">EMEC 609,599</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{14B229A8-CFFB-4833-9ED4-8C69FA8CBF54}" l="1012" t="462" r="1398" b="758"><region><rect l="1012" t="462" r="1398" b="758"/></region>
+<text id="{14B229A8-CFFB-4833-9ED4-8C69FA8CBF54}">
+<par leftIndent="2600" rightIndent="2500" lineSpacing="685">
+<line baseline="496" l="1020" t="470" r="1380" b="505"><formatting lang="EnglishUnitedStates">TEXAStMadera Cyn.</formatting></line>
+<line baseline="537" l="1024" t="509" r="1316" b="538"><formatting lang="EnglishUnitedStates">Jeff Davis Co.</formatting></line>
+<line baseline="577" l="1021" t="550" r="1232" b="578"><formatting lang="EnglishUnitedStates">Davis Mts.</formatting></line>
+<line baseline="616" l="1020" t="588" r="1256" b="617"><formatting lang="EnglishUnitedStates">VIII-7-1977</formatting></line>
+<line baseline="655" l="1023" t="627" r="1300" b="662"><formatting lang="EnglishUnitedStates">E.I.Schlinger</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" l="1218" t="922" r="1460" b="1020"><region><rect l="1218" t="922" r="1460" b="1020"/></region>
+</block>
+<block blockType="Separator" l="16" t="0" r="24" b="134"><region><rect l="18" t="0" r="24" b="94"/><rect l="16" t="94" r="22" b="134"/></region>
+<separator type="Black" thickness="3"><start x="20" y="0"/><end x="20" y="134"/>
+</separator>
+</block>
+<block blockType="Separator" l="152" t="0" r="162" b="186"><region><rect l="156" t="0" r="162" b="32"/><rect l="152" t="32" r="160" b="186"/></region>
+<separator type="Black" thickness="3"><start x="157" y="0"/><end x="157" y="186"/>
+</separator>
+</block>
+<block blockType="Separator" l="428" t="0" r="438" b="216"><region><rect l="430" t="0" r="438" b="194"/><rect l="428" t="194" r="434" b="216"/></region>
+<separator type="Black" thickness="3"><start x="433" y="0"/><end x="433" y="216"/>
+</separator>
+</block>
+<block blockType="Separator" l="570" t="0" r="578" b="134"><region><rect l="570" t="0" r="578" b="134"/></region>
+<separator type="Black" thickness="3"><start x="574" y="0"/><end x="574" y="134"/>
+</separator>
+</block>
+<block blockType="Separator" l="710" t="0" r="718" b="218"><region><rect l="710" t="0" r="718" b="218"/></region>
+<separator type="Black" thickness="3"><start x="714" y="0"/><end x="714" y="218"/>
+</separator>
+</block>
+<block blockType="Separator" l="852" t="0" r="860" b="138"><region><rect l="852" t="0" r="860" b="138"/></region>
+<separator type="Black" thickness="4"><start x="856" y="0"/><end x="856" y="138"/>
+</separator>
+</block>
+</page>
+</document>

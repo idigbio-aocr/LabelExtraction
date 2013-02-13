@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{634A8FE4-D31E-4EA9-93F2-E229FA53EFC0}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="470">
+<block blockType="Text" l="322" t="242" r="964" b="282"><region><rect l="322" t="242" r="964" b="282"/></region>
+</block>
+<block blockType="Text" pageElemId="{634A8FE4-D31E-4EA9-93F2-E229FA53EFC0}" l="1096" t="274" r="1464" b="740"><region><rect l="1114" t="274" r="1384" b="286"/><rect l="1114" t="286" r="1464" b="312"/><rect l="1112" t="312" r="1464" b="336"/><rect l="1096" t="336" r="1464" b="740"/></region>
+<text id="{634A8FE4-D31E-4EA9-93F2-E229FA53EFC0}">
+<par leftIndent="200" rightIndent="800" lineSpacing="843">
+<line baseline="331" l="1139" t="293" r="1415" b="343"><formatting lang="EnglishUnitedStates">U.c. Berkeley</formatting></line>
+<line baseline="386" l="1146" t="346" r="1447" b="399"><formatting lang="EnglishUnitedStates">EMEC 609.609</formatting></line></par>
+<par leftIndent="200" rightIndent="1300" lineSpacing="720">
+<line baseline="465" l="1133" t="418" r="1384" b="475"><formatting lang="EnglishUnitedStates">P. D.eHur4</formatting></line>
+<line baseline="514" l="1129" t="470" r="1422" b="521"><formatting lang="EnglishUnitedStates">Collector e ■</formatting></line></par>
+<par leftIndent="200" rightIndent="1300" lineSpacing="643">
+<line baseline="578" l="1124" t="540" r="1411" b="584"><formatting lang="EnglishUnitedStates">10 km.W.ofri</formatting></line>
+<line baseline="616" l="1122" t="588" r="1417" b="624"><formatting lang="EnglishUnitedStates">Zitacuaro, f</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="120" t="0" r="128" b="144"><region><rect l="122" t="0" r="128" b="60"/><rect l="120" t="60" r="126" b="144"/></region>
+<separator type="Black" thickness="3"><start x="124" y="0"/><end x="124" y="144"/>
+</separator>
+</block>
+<block blockType="Separator" l="256" t="0" r="266" b="202"><region><rect l="258" t="0" r="266" b="112"/><rect l="256" t="112" r="262" b="202"/></region>
+<separator type="Black" thickness="3"><start x="261" y="0"/><end x="261" y="202"/>
+</separator>
+</block>
+<block blockType="Separator" l="396" t="0" r="404" b="144"><region><rect l="396" t="0" r="404" b="144"/></region>
+<separator type="Black" thickness="3"><start x="400" y="0"/><end x="400" y="144"/>
+</separator>
+</block>
+<block blockType="Separator" l="534" t="0" r="544" b="228"><region><rect l="536" t="0" r="544" b="206"/><rect l="534" t="206" r="540" b="228"/></region>
+<separator type="Black" thickness="3"><start x="539" y="0"/><end x="539" y="228"/>
+</separator>
+</block>
+<block blockType="Separator" l="678" t="0" r="684" b="146"><region><rect l="678" t="0" r="684" b="146"/></region>
+<separator type="Black" thickness="3"><start x="681" y="0"/><end x="681" y="146"/>
+</separator>
+</block>
+<block blockType="Separator" l="816" t="0" r="824" b="230"><region><rect l="816" t="0" r="824" b="230"/></region>
+<separator type="Black" thickness="3"><start x="820" y="0"/><end x="820" y="230"/>
+</separator>
+</block>
+<block blockType="Separator" l="958" t="0" r="966" b="150"><region><rect l="958" t="0" r="966" b="150"/></region>
+<separator type="Black" thickness="4"><start x="962" y="0"/><end x="962" y="150"/>
+</separator>
+</block>
+<block blockType="Separator" l="1100" t="0" r="1114" b="300"><region><rect l="1104" t="0" r="1114" b="194"/><rect l="1102" t="194" r="1112" b="260"/><rect l="1100" t="260" r="1110" b="264"/><rect l="1100" t="264" r="1112" b="270"/><rect l="1102" t="270" r="1112" b="276"/><rect l="1100" t="276" r="1112" b="278"/><rect l="1100" t="278" r="1110" b="300"/></region>
+<separator type="Black" thickness="5"><start x="1107" y="0"/><end x="1107" y="300"/>
+</separator>
+</block>
+<block blockType="Separator" l="1080" t="0" r="1086" b="64"><region><rect l="1080" t="0" r="1086" b="64"/></region>
+<separator type="Dotted" thickness="2"><start x="1083" y="0"/><end x="1083" y="64"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{BBCEFB82-1194-49C3-8933-38C6220828C0}"/></stream><stream role="incut" beginPage="0"><elemId id="{ADB839C5-6050-426B-8D2C-016DE7CB3B86}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="510">
+<block blockType="Picture" pageElemId="{ADB839C5-6050-426B-8D2C-016DE7CB3B86}" l="0" t="4" r="838" b="870"><region><rect l="0" t="4" r="838" b="870"/></region>
+</block>
+<block blockType="Text" l="562" t="1154" r="620" b="1200"><region><rect l="562" t="1154" r="620" b="1200"/></region>
+</block>
+<block blockType="Text" pageElemId="{BBCEFB82-1194-49C3-8933-38C6220828C0}" l="1084" t="388" r="1500" b="888"><region><rect l="1084" t="388" r="1500" b="888"/></region>
+<text id="{BBCEFB82-1194-49C3-8933-38C6220828C0}">
+<par rightIndent="500" lineSpacing="889">
+<line baseline="442" l="1104" t="400" r="1421" b="450"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="503" l="1110" t="462" r="1490" b="512"><formatting lang="EnglishUnitedStates">EMEC 609.894 t</formatting></line></par>
+<par>
+<line baseline="631" l="1104" t="585" r="1440" b="640"><formatting lang="EnglishUnitedStates">Watts Valley</formatting></line></par>
+<par>
+<line baseline="724" l="1103" t="629" r="1495" b="743"><formatting lang="EnglishUnitedStates">te&amp;:66:</formatting></line></par>
+<par leftIndent="1000">
+<line baseline="880" l="1171" t="765" r="1527" b="889"><formatting lang="EnglishUnitedStates">&amp;°Maater</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="42" t="144" r="54" b="410"><region><rect l="46" t="144" r="54" b="284"/><rect l="44" t="284" r="52" b="366"/><rect l="42" t="366" r="50" b="410"/></region>
+<separator type="Black" thickness="4"><start x="48" y="144"/><end x="48" y="410"/>
+</separator>
+</block>
+<block blockType="Separator" l="202" t="146" r="214" b="322"><region><rect l="206" t="146" r="214" b="214"/><rect l="204" t="214" r="212" b="294"/><rect l="202" t="294" r="210" b="322"/></region>
+<separator type="Black" thickness="4"><start x="208" y="146"/><end x="208" y="322"/>
+</separator>
+</block>
+<block blockType="Separator" l="360" t="146" r="372" b="418"><region><rect l="364" t="146" r="372" b="274"/><rect l="362" t="274" r="368" b="358"/><rect l="360" t="358" r="366" b="418"/></region>
+<separator type="Black" thickness="3"><start x="366" y="146"/><end x="366" y="418"/>
+</separator>
+</block>
+<block blockType="Separator" l="522" t="146" r="532" b="326"><region><rect l="524" t="146" r="532" b="294"/><rect l="522" t="294" r="530" b="326"/></region>
+<separator type="Black" thickness="4"><start x="527" y="146"/><end x="527" y="326"/>
+</separator>
+</block>
+<block blockType="Separator" l="682" t="148" r="692" b="400"><region><rect l="684" t="148" r="692" b="288"/><rect l="682" t="288" r="690" b="400"/></region>
+<separator type="Black" thickness="4"><start x="687" y="148"/><end x="687" y="400"/>
+</separator>
+</block>
+<block blockType="Separator" l="844" t="154" r="854" b="332"><region><rect l="846" t="154" r="854" b="224"/><rect l="844" t="224" r="852" b="332"/></region>
+<separator type="Black" thickness="4"><start x="849" y="154"/><end x="849" y="332"/>
+</separator>
+</block>
+<block blockType="Separator" l="1008" t="162" r="1024" b="496"><region><rect l="1010" t="162" r="1024" b="380"/><rect l="1008" t="380" r="1022" b="496"/></region>
+<separator type="Black" thickness="6"><start x="1016" y="162"/><end x="1016" y="496"/>
+</separator>
+</block>
+</page>
+</document>

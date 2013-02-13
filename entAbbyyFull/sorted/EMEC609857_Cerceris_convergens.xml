@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<documentData>
+<sections>
+<section><stream role="text" beginPage="0"><mainText columnCount="1"/><elemId id="{BD9AC0DF-3A5C-45B4-90BD-AE11FCCB69B2}"/><elemId id="{7AE48F2B-C034-4B72-96D7-C0751D4B87E6}"/></stream><stream role="incut" beginPage="0"><elemId id="{8CA1C1DE-500A-4530-98CA-38E0141E2D61}"/></stream>
+</section>
+</sections>
+</documentData>
+<page width="1600" height="1200" resolution="470">
+<block blockType="Picture" pageElemId="{8CA1C1DE-500A-4530-98CA-38E0141E2D61}" l="0" t="0" r="906" b="1200"><region><rect l="0" t="0" r="906" b="1200"/></region>
+</block>
+<block blockType="Text" l="126" t="1174" r="202" b="1200"><region><rect l="126" t="1174" r="202" b="1200"/></region>
+</block>
+<block blockType="Text" pageElemId="{BD9AC0DF-3A5C-45B4-90BD-AE11FCCB69B2}" l="988" t="284" r="1530" b="720"><region><rect l="988" t="284" r="1530" b="636"/><rect l="1038" t="636" r="1530" b="720"/></region>
+<text id="{BD9AC0DF-3A5C-45B4-90BD-AE11FCCB69B2}">
+<par leftIndent="100" rightIndent="900" startIndent="700" lineSpacing="1042">
+<line baseline="348" l="1071" t="303" r="1389" b="361"><formatting lang="EnglishUnitedStates">U.C. Berkeley</formatting></line>
+<line baseline="413" l="1030" t="363" r="1419" b="417"><formatting lang="EnglishUnitedStates">ii EMEC 609,857</formatting></line>
+<line baseline="480" l="1167" t="425" r="1201" b="483"><formatting lang="EnglishUnitedStates">/</formatting></line></par>
+<par align="Center" leftIndent="100" lineSpacing="720">
+<line baseline="526" l="1060" t="484" r="1364" b="530"><formatting lang="EnglishUnitedStates">Topaz Lake</formatting></line>
+<line baseline="573" l="1062" t="527" r="1401" b="582"><formatting lang="EnglishUnitedStates">Douglas Co.,</formatting></line>
+<line baseline="619" l="1015" t="575" r="1473" b="625"><formatting lang="EnglishUnitedStates">i Wct. vni-17-W:</formatting></line></par>
+<par leftIndent="100" startIndent="700">
+<line baseline="720" l="1067" t="639" r="1471" b="721"><formatting lang="EnglishUnitedStates">lJt-M?sSwaiD</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{C3BB6517-9F6F-44CB-AD0D-B1B1AF127D8D}" l="1000" t="686" r="1324" b="748"><region><rect l="1000" t="686" r="1324" b="748"/></region>
+<text id="{C3BB6517-9F6F-44CB-AD0D-B1B1AF127D8D}">
+<par>
+<line baseline="740" l="1038" t="695" r="1302" b="741"><formatting lang="EnglishUnitedStates">. Collector</formatting></line></par>
+</text>
+</block>
+<block blockType="Picture" pageElemId="{7AE48F2B-C034-4B72-96D7-C0751D4B87E6}" l="1020" t="748" r="1512" b="1100"><region><rect l="1092" t="748" r="1204" b="754"/><rect l="1020" t="754" r="1512" b="1100"/></region>
+</block>
+<block blockType="Text" pageElemId="{1EC60CDE-4FB4-49C1-9C7E-7C22562F6EED}" l="1026" t="836" r="1302" b="920"><region><rect l="1026" t="836" r="1302" b="920"/></region>
+<text id="{1EC60CDE-4FB4-49C1-9C7E-7C22562F6EED}">
+<par>
+<line baseline="891" l="1035" t="836" r="1301" b="895"><formatting lang="EnglishUnitedStates">;ICerceris</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{1339D1A0-F218-4968-B636-AAD48533B67E}" l="1110" t="910" r="1378" b="954"><region><rect l="1110" t="910" r="1378" b="954"/></region>
+<text id="{1339D1A0-F218-4968-B636-AAD48533B67E}">
+<par>
+<line baseline="953" l="1111" t="914" r="1378" b="954"><formatting lang="EnglishUnitedStates">convergens</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{FBB9F88D-92F0-492C-A900-56C58C1501F6}" l="1074" t="956" r="1272" b="1010"><region><rect l="1074" t="956" r="1272" b="1010"/></region>
+<text id="{FBB9F88D-92F0-492C-A900-56C58C1501F6}">
+<par>
+<line baseline="997" l="1079" t="958" r="1271" b="1002"><formatting lang="EnglishUnitedStates">Det. bv</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{83D56A37-2ED7-45A5-8909-534E4BA5B943}" l="1320" t="968" r="1482" b="1014"><region><rect l="1320" t="968" r="1482" b="1014"/></region>
+<text id="{83D56A37-2ED7-45A5-8909-534E4BA5B943}">
+<par>
+<line baseline="1011" l="1323" t="972" r="1482" b="1014"><formatting lang="EnglishUnitedStates">V.&amp; C.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" pageElemId="{D75A72D2-3D5C-4E24-AF60-3799D68201DC}" l="1100" t="1012" r="1510" b="1100"><region><rect l="1100" t="1012" r="1510" b="1100"/></region>
+<text id="{D75A72D2-3D5C-4E24-AF60-3799D68201DC}">
+<par>
+<line baseline="1070" l="1103" t="1015" r="1474" b="1065"><formatting lang="EnglishUnitedStates">H. A. Senile nKj.</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="1208" t="838" r="1512" b="862"><region><rect l="1208" t="838" r="1262" b="840"/><rect l="1208" t="840" r="1314" b="844"/><rect l="1208" t="844" r="1376" b="846"/><rect l="1262" t="846" r="1376" b="848"/><rect l="1262" t="848" r="1434" b="850"/><rect l="1328" t="850" r="1434" b="852"/><rect l="1328" t="852" r="1488" b="854"/><rect l="1388" t="854" r="1512" b="856"/><rect l="1434" t="856" r="1512" b="858"/><rect l="1464" t="858" r="1512" b="860"/><rect l="1488" t="860" r="1512" b="862"/></region>
+<separator type="Black" thickness="4"><start x="1208" y="850"/><end x="1512" y="850"/>
+</separator>
+</block>
+<block blockType="Separator" l="1038" t="1054" r="1420" b="1080"><region><rect l="1038" t="1054" r="1114" b="1058"/><rect l="1038" t="1058" r="1166" b="1060"/><rect l="1038" t="1060" r="1208" b="1062"/><rect l="1114" t="1062" r="1246" b="1064"/><rect l="1146" t="1064" r="1286" b="1066"/><rect l="1166" t="1066" r="1312" b="1068"/><rect l="1208" t="1068" r="1344" b="1070"/><rect l="1246" t="1070" r="1376" b="1072"/><rect l="1286" t="1072" r="1420" b="1074"/><rect l="1312" t="1074" r="1420" b="1076"/><rect l="1344" t="1076" r="1420" b="1078"/><rect l="1376" t="1078" r="1420" b="1080"/></region>
+<separator type="Black" thickness="4"><start x="1038" y="1067"/><end x="1420" y="1067"/>
+</separator>
+</block>
+<block blockType="Separator" l="78" t="70" r="88" b="246"><region><rect l="80" t="70" r="88" b="220"/><rect l="78" t="220" r="86" b="246"/></region>
+<separator type="Black" thickness="4"><start x="83" y="70"/><end x="83" y="246"/>
+</separator>
+</block>
+<block blockType="Separator" l="236" t="70" r="246" b="340"><region><rect l="238" t="70" r="246" b="246"/><rect l="236" t="246" r="242" b="340"/></region>
+<separator type="Black" thickness="3"><start x="241" y="70"/><end x="241" y="340"/>
+</separator>
+</block>
+<block blockType="Separator" l="396" t="66" r="404" b="246"><region><rect l="396" t="66" r="404" b="246"/></region>
+<separator type="Black" thickness="4"><start x="400" y="66"/><end x="400" y="246"/>
+</separator>
+</block>
+<block blockType="Separator" l="556" t="68" r="564" b="334"><region><rect l="556" t="68" r="564" b="334"/></region>
+<separator type="Black" thickness="3"><start x="560" y="68"/><end x="560" y="334"/>
+</separator>
+</block>
+<block blockType="Separator" l="716" t="70" r="724" b="248"><region><rect l="716" t="70" r="724" b="248"/></region>
+<separator type="Black" thickness="4"><start x="720" y="70"/><end x="720" y="248"/>
+</separator>
+</block>
+<block blockType="Separator" l="814" t="68" r="820" b="186"><region><rect l="814" t="68" r="820" b="186"/></region>
+<separator type="Black" thickness="3"><start x="817" y="68"/><end x="817" y="186"/>
+</separator>
+</block>
+<block blockType="Separator" l="846" t="68" r="852" b="186"><region><rect l="846" t="68" r="852" b="186"/></region>
+<separator type="Black" thickness="3"><start x="849" y="68"/><end x="849" y="186"/>
+</separator>
+</block>
+<block blockType="Separator" l="1482" t="846" r="1498" b="1096"><region><rect l="1490" t="846" r="1498" b="934"/><rect l="1486" t="934" r="1494" b="1000"/><rect l="1484" t="1000" r="1492" b="1062"/><rect l="1482" t="1062" r="1488" b="1096"/></region>
+<separator type="Black" thickness="3"><start x="1490" y="846"/><end x="1490" y="1096"/>
+</separator>
+</block>
+</page>
+</document>
